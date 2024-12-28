@@ -1,0 +1,2001 @@
+"id","card_brand","card_type","current_age","age_range","address","gender","credit_score","labels"
+0,Amex,Credit,33,"31-40","858 Plum Avenue",Male,763,Cukup Baik
+1,Mastercard,Credit,43,"41-50","113 Burns Lane",Female,704,Cukup Baik
+2,Mastercard,Debit,48,"41-50","6035 Forest Avenue",Male,673,Sedang
+3,Visa,Credit,49,"41-50","840 Elm Avenue",Male,681,Sedang
+4,Mastercard,Debit,54,"51-60","6016 Little Creek Boulevard",Female,716,Cukup Baik
+5,Visa,Debit,65,"61-70","1032 Second Lane",Male,711,Cukup Baik
+6,Amex,Credit,19,"10-20","534 Second Lane",Female,782,Cukup Baik
+7,Mastercard,Debit,74,"71-80","124 Madison Lane",Male,650,Sedang
+8,Mastercard,Credit,21,"21-30","41 East Boulevard",Male,699,Sedang
+9,Amex,Credit,29,"21-30","22 Mill Drive",Male,540,Buruk
+10,Mastercard,Debit,30,"21-30","835 George Drive",Male,727,Cukup Baik
+11,Mastercard,Debit,39,"31-40","6339 Fourth Street",Female,714,Cukup Baik
+12,Visa,Credit,18,"10-20","345 George Avenue",Female,748,Cukup Baik
+13,Mastercard,Credit,52,"51-60","4222 Ocean View Drive",Female,588,Buruk
+14,Mastercard,Debit,79,"71-80","2487 Martin Luther King Drive",Female,652,Sedang
+15,Mastercard,Debit,52,"51-60","401 Bayview Lane",Female,788,Cukup Baik
+16,Visa,Debit,75,"71-80","2890 Eighth Lane",Male,681,Sedang
+17,Visa,Debit,76,"71-80","2012 Forest Avenue",Male,759,Cukup Baik
+18,Mastercard,Credit,30,"21-30","9207 Madison Boulevard",Male,637,Sedang
+19,Mastercard,Debit,82,"81-90","6577 Catherine Lane",Female,630,Sedang
+20,Visa,Credit,86,"81-90","3631 Plum Boulevard",Female,757,Cukup Baik
+21,Visa,Credit,48,"41-50","819 Park Boulevard",Male,850,Cukup Baik
+22,Visa,Debit (Prepaid),56,"51-60","5651 North Boulevard",Male,747,Cukup Baik
+23,Visa,Credit,18,"10-20","9085 West Drive",Female,645,Sedang
+24,Visa,Debit,48,"41-50","55378 Burns Avenue",Female,708,Cukup Baik
+25,Visa,Debit,22,"21-30","814 Washington Street",Female,630,Sedang
+26,Mastercard,Credit,49,"41-50","9639 Third Boulevard",Female,685,Sedang
+27,Visa,Credit,78,"71-80","3553 Mountain View Drive",Female,613,Sedang
+28,Visa,Debit,39,"31-40","871 12th Lane",Female,789,Cukup Baik
+29,Visa,Credit,68,"61-70","318 Spruce Boulevard",Female,665,Sedang
+30,Visa,Credit,23,"21-30","2478 El Camino Avenue",Female,577,Buruk
+31,Visa,Debit,51,"51-60","413 East Boulevard",Female,712,Cukup Baik
+32,Visa,Debit (Prepaid),82,"81-90","7336 First Avenue",Female,695,Sedang
+33,Visa,Credit,77,"71-80","6335 Rose Lane",Female,596,Buruk
+34,Amex,Credit,41,"41-50","7467 Spruce Drive",Male,737,Cukup Baik
+35,Discover,Credit,20,"10-20","8460 Oak Lane",Male,773,Cukup Baik
+36,Mastercard,Debit,31,"31-40","8486 Catherine Street",Male,722,Cukup Baik
+37,Mastercard,Debit,41,"41-50","533 Sussex Drive",Female,683,Sedang
+38,Mastercard,Credit,45,"41-50","582 Birch Boulevard",Female,621,Sedang
+39,Mastercard,Debit,54,"51-60","984 Eighth Avenue",Female,583,Buruk
+40,Mastercard,Debit,71,"71-80","2786 Forest Lane",Male,726,Cukup Baik
+41,Mastercard,Credit,38,"31-40","2750 Rose Boulevard",Male,637,Sedang
+42,Visa,Credit,78,"71-80","3863 Pine Street",Female,684,Sedang
+43,Visa,Credit,26,"21-30","5594 12th Drive",Female,721,Cukup Baik
+44,Visa,Debit,85,"81-90","8651 Seventh Street",Male,680,Sedang
+45,Visa,Debit,61,"61-70","9473 Mill Street",Female,654,Sedang
+46,Visa,Debit (Prepaid),62,"61-70","20 Littlewood Boulevard",Male,632,Sedang
+47,Visa,Credit,47,"41-50","523 Federal Drive",Male,712,Cukup Baik
+48,Amex,Credit,69,"61-70","5233 Valley Stream Street",Male,733,Cukup Baik
+49,Mastercard,Debit,38,"31-40","190 Burns Avenue",Male,686,Sedang
+50,Mastercard,Credit,68,"61-70","267 Birch Boulevard",Female,702,Cukup Baik
+51,Mastercard,Debit,29,"21-30","3260 Hillside Lane",Female,688,Sedang
+52,Mastercard,Credit,56,"51-60","13 Rose Boulevard",Female,730,Cukup Baik
+53,Mastercard,Debit,49,"41-50","7406 Mill Avenue",Female,701,Cukup Baik
+54,Mastercard,Debit,21,"21-30","7914 Essex Boulevard",Female,696,Sedang
+55,Mastercard,Debit,61,"61-70","3374 Littlewood Street",Female,717,Cukup Baik
+56,Mastercard,Debit (Prepaid),22,"21-30","5762 River Lane",Female,682,Sedang
+57,Mastercard,Debit,28,"21-30","9706 Mountain View Street",Female,823,Cukup Baik
+58,Mastercard,Debit,38,"31-40","6561 George Avenue",Female,706,Cukup Baik
+59,Visa,Debit,85,"81-90","726 Oak Avenue",Female,695,Sedang
+60,Visa,Debit,47,"41-50","467 Birch Avenue",Female,655,Sedang
+61,Visa,Debit (Prepaid),44,"41-50","4121 Mountain View Boulevard",Female,801,Tidak Baik
+62,Visa,Credit,78,"71-80","9911 Rose Street",Female,716,Cukup Baik
+63,Visa,Debit,40,"31-40","390 Tenth Street",Male,660,Sedang
+64,Amex,Credit,39,"31-40","95 12th Avenue",Female,702,Cukup Baik
+65,Amex,Credit,51,"51-60","4514 Elm Street",Female,645,Sedang
+66,Discover,Credit,20,"10-20","69 Norfolk Avenue",Female,721,Cukup Baik
+67,Mastercard,Credit,23,"21-30","1 Sixth Boulevard",Female,732,Cukup Baik
+68,Mastercard,Debit,42,"41-50","58 Birch Lane",Male,704,Cukup Baik
+69,Mastercard,Credit,54,"51-60","3067 First Street",Female,748,Cukup Baik
+70,Mastercard,Credit,20,"10-20","8997 Summit Avenue",Male,635,Sedang
+71,Mastercard,Debit,39,"31-40","164 Ocean View Street",Male,701,Cukup Baik
+72,Mastercard,Debit,37,"31-40","550 Forest Street",Male,580,Buruk
+73,Mastercard,Debit,48,"41-50","2193 Sixth Avenue",Male,674,Sedang
+74,Mastercard,Debit,54,"51-60","1444 Plum Boulevard",Female,783,Cukup Baik
+75,Mastercard,Debit (Prepaid),80,"71-80","6328 Forest Street",Female,564,Buruk
+76,Mastercard,Debit,22,"21-30","3269 River Street",Female,649,Sedang
+77,Mastercard,Debit (Prepaid),99,"91+","596 Ninth Street",Female,709,Cukup Baik
+78,Mastercard,Debit,37,"31-40","5320 Mountain View Street",Male,688,Sedang
+79,Visa,Credit,70,"61-70","990 North Lane",Female,625,Sedang
+80,Visa,Debit (Prepaid),82,"81-90","362 Martin Luther King Street",Female,498,Tidak Baik
+81,Visa,Credit,66,"61-70","804 Sixth Boulevard",Female,723,Cukup Baik
+82,Visa,Debit,22,"21-30","6054 Main Avenue",Female,779,Cukup Baik
+83,Visa,Debit,31,"31-40","766 Catherine Boulevard",Male,557,Buruk
+84,Visa,Debit,47,"41-50","23068 Park Street",Male,738,Cukup Baik
+85,Visa,Debit,29,"21-30","8016 Norfolk Drive",Male,782,Cukup Baik
+86,Visa,Debit,24,"21-30","7675 Main Boulevard",Male,799,Cukup Baik
+87,Visa,Debit,58,"51-60","663 Second Boulevard",Male,802,Cukup Baik
+88,Amex,Credit,22,"21-30","6614 Ninth Boulevard",Male,712,Cukup Baik
+89,Amex,Credit,35,"31-40","7794 Ocean Street",Male,705,Cukup Baik
+90,Amex,Credit,63,"61-70","9 Mill Drive",Male,644,Sedang
+91,Amex,Credit,38,"31-40","89 Washington Boulevard",Female,739,Cukup Baik
+92,Amex,Credit,76,"71-80","2760 Forest Drive",Female,689,Sedang
+93,Discover,Credit,33,"31-40","850 Birch Avenue",Female,686,Sedang
+94,Mastercard,Debit,59,"51-60","704 Summit Drive",Female,593,Buruk
+95,Mastercard,Debit (Prepaid),25,"21-30","157 Eighth Street",Female,701,Cukup Baik
+96,Mastercard,Credit,69,"61-70","20 Oak Street",Female,685,Sedang
+97,Mastercard,Debit,69,"61-70","93 Mill Drive",Female,765,Cukup Baik
+98,Mastercard,Debit,80,"71-80","7872 Oak Drive",Female,590,Buruk
+99,Mastercard,Debit,63,"61-70","891 El Camino Lane",Female,753,Cukup Baik
+100,Mastercard,Debit,56,"51-60","3982 Ocean View Street",Male,813,Cukup Baik
+101,Mastercard,Debit (Prepaid),18,"10-20","91 Essex Lane",Female,681,Sedang
+102,Mastercard,Debit,32,"31-40","2785 Elm Drive",Female,649,Sedang
+103,Mastercard,Debit,41,"41-50","8 Tenth Drive",Female,850,Cukup Baik
+104,Mastercard,Debit,33,"31-40","2043 Mill Street",Female,713,Cukup Baik
+105,Mastercard,Credit,54,"51-60","420 Oak Drive",Male,742,Cukup Baik
+106,Mastercard,Credit,52,"51-60","146 Plum Avenue",Male,624,Sedang
+107,Visa,Debit,50,"41-50","1504 Lincoln Drive",Male,734,Cukup Baik
+108,Visa,Credit,50,"41-50","373 Sussex Drive",Female,768,Cukup Baik
+109,Visa,Credit,29,"21-30","933 Sussex Drive",Female,737,Cukup Baik
+110,Visa,Debit,52,"51-60","31204 El Camino Lane",Female,737,Cukup Baik
+111,Visa,Debit,25,"21-30","3124 Madison Drive",Female,738,Cukup Baik
+112,Visa,Debit,54,"51-60","85 Lafayette Boulevard",Female,686,Sedang
+113,Visa,Debit,74,"71-80","4 Plum Boulevard",Female,788,Cukup Baik
+114,Visa,Debit,47,"41-50","112 Elm Avenue",Female,725,Cukup Baik
+115,Visa,Debit,61,"61-70","386 11th Lane",Male,748,Cukup Baik
+116,Visa,Debit,31,"31-40","168 Sussex Boulevard",Male,685,Sedang
+117,Visa,Debit,20,"10-20","58 Bayview Street",Male,595,Buruk
+118,Visa,Credit,56,"51-60","407 Seventh Lane",Female,753,Cukup Baik
+119,Visa,Debit,44,"41-50","60 Little Creek Avenue",Female,624,Sedang
+120,Visa,Credit,50,"41-50","64 Mill Street",Female,781,Cukup Baik
+121,Visa,Credit,34,"31-40","71858 Mountain View Street",Female,721,Cukup Baik
+122,Amex,Credit,65,"61-70","6303 South Boulevard",Female,786,Cukup Baik
+123,Amex,Credit,43,"41-50","5180 Burns Boulevard",Female,824,Cukup Baik
+124,Amex,Credit,31,"31-40","9833 Forest Street",Female,680,Sedang
+125,Amex,Credit,64,"61-70","9505 Martin Luther King Avenue",Female,724,Cukup Baik
+126,Mastercard,Credit,63,"61-70","5159 Wessex Avenue",Male,799,Cukup Baik
+127,Mastercard,Debit,48,"41-50","671 Little Creek Street",Male,729,Cukup Baik
+128,Mastercard,Debit (Prepaid),40,"31-40","6914 Wessex Avenue",Female,722,Cukup Baik
+129,Mastercard,Debit,56,"51-60","6295 Summit Drive",Female,510,Buruk
+130,Mastercard,Debit,63,"61-70","6429 Fifth Avenue",Female,781,Cukup Baik
+131,Mastercard,Debit,23,"21-30","5883 Sixth Street",Female,688,Sedang
+132,Mastercard,Credit,77,"71-80","8407 Littlewood Street",Female,696,Sedang
+133,Mastercard,Debit,31,"31-40","5295 Pine Street",Female,698,Sedang
+134,Mastercard,Debit,43,"41-50","924 First Drive",Male,643,Sedang
+135,Mastercard,Debit,64,"61-70","327 Lafayette Boulevard",Female,691,Sedang
+136,Mastercard,Debit,18,"10-20","724 Essex Drive",Female,695,Sedang
+137,Mastercard,Debit,33,"31-40","3177 Oak Avenue",Female,644,Sedang
+138,Visa,Debit,43,"41-50","754 South Avenue",Female,641,Sedang
+139,Visa,Credit,73,"71-80","835 Main Street",Female,687,Sedang
+140,Visa,Debit,37,"31-40","108 Washington Street",Female,739,Cukup Baik
+141,Visa,Debit,70,"61-70","744 Lafayette Street",Male,638,Sedang
+142,Visa,Credit,59,"51-60","723 Fourth Drive",Female,675,Sedang
+143,Visa,Credit,22,"21-30","5138 Park Drive",Female,771,Cukup Baik
+144,Visa,Debit,44,"41-50","5380 12th Boulevard",Female,835,Cukup Baik
+145,Visa,Debit,58,"51-60","645 Hillside Lane",Female,696,Sedang
+146,Visa,Debit (Prepaid),47,"41-50","45 Ocean Lane",Female,717,Cukup Baik
+147,Visa,Credit,30,"21-30","4096 Sussex Avenue",Male,800,Cukup Baik
+148,Visa,Debit,62,"61-70","7378 Park Lane",Male,663,Sedang
+149,Amex,Credit,24,"21-30","5 Hill Avenue",Female,594,Buruk
+150,Amex,Credit,51,"51-60","2897 West Street",Female,782,Cukup Baik
+151,Mastercard,Debit,18,"10-20","303 Lexington Drive",Female,823,Cukup Baik
+152,Mastercard,Debit,37,"31-40","49 Tenth Street",Female,773,Cukup Baik
+153,Mastercard,Debit,76,"71-80","172 Birch Street",Female,660,Sedang
+154,Mastercard,Credit,48,"41-50","8993 Madison Avenue",Male,666,Sedang
+155,Mastercard,Debit (Prepaid),86,"81-90","235 Fourth Street",Female,688,Sedang
+156,Mastercard,Credit,36,"31-40","2062 Fourth Street",Female,691,Sedang
+157,Mastercard,Debit,47,"41-50","6232 Second Avenue",Male,785,Cukup Baik
+158,Mastercard,Debit,31,"31-40","5065 Catherine Drive",Female,747,Cukup Baik
+159,Mastercard,Debit,53,"51-60","274 Summit Street",Male,707,Cukup Baik
+160,Mastercard,Credit,44,"41-50","1915 Catherine Boulevard",Male,796,Cukup Baik
+161,Mastercard,Credit,31,"31-40","237 Hill Lane",Male,731,Cukup Baik
+162,Mastercard,Debit,37,"31-40","9550 Jefferson Street",Male,771,Cukup Baik
+163,Mastercard,Credit,37,"31-40","169 Oak Street",Male,829,Cukup Baik
+164,Mastercard,Credit,76,"71-80","772 Lexington Street",Male,658,Sedang
+165,Mastercard,Debit (Prepaid),34,"31-40","95266 Bayview Drive",Male,694,Sedang
+166,Mastercard,Debit,83,"81-90","9915 Burns Lane",Female,665,Sedang
+167,Mastercard,Credit,26,"21-30","189 Washington Street",Female,743,Cukup Baik
+168,Mastercard,Debit,51,"51-60","2920 11th Boulevard",Female,646,Sedang
+169,Mastercard,Debit (Prepaid),85,"81-90","2 11th Avenue",Male,686,Sedang
+170,Mastercard,Debit,34,"31-40","79948 Sixth Avenue",Male,768,Cukup Baik
+171,Mastercard,Debit,43,"41-50","5194 Grant Street",Female,694,Sedang
+172,Mastercard,Debit,47,"41-50","9020 North Street",Female,730,Cukup Baik
+173,Visa,Credit,63,"61-70","440 North Street",Female,668,Sedang
+174,Visa,Debit,23,"21-30","4822 Jefferson Avenue",Female,716,Cukup Baik
+175,Visa,Credit,33,"31-40","8740 Lafayette Drive",Female,675,Sedang
+176,Visa,Debit,45,"41-50","627 Ninth Drive",Female,667,Sedang
+177,Visa,Credit,54,"51-60","294 Bayview Lane",Female,728,Cukup Baik
+178,Visa,Debit,47,"41-50","27 Third Avenue",Female,727,Cukup Baik
+179,Visa,Credit,33,"31-40","906 Little Creek Drive",Female,652,Sedang
+180,Visa,Credit,33,"31-40","0 Elm Street",Female,840,Cukup Baik
+181,Visa,Debit,26,"21-30","118 12th Avenue",Female,602,Sedang
+182,Visa,Debit,49,"41-50","916 Birch Drive",Female,616,Sedang
+183,Visa,Debit,24,"21-30","84 Second Lane",Female,798,Cukup Baik
+184,Visa,Debit,50,"41-50","8886 Little Creek Street",Female,797,Cukup Baik
+185,Visa,Credit,47,"41-50","276 Fifth Boulevard",Female,779,Cukup Baik
+186,Visa,Credit,61,"61-70","49 Bayview Lane",Female,705,Cukup Baik
+187,Visa,Debit,35,"31-40","707 Elm Boulevard",Female,830,Cukup Baik
+188,Visa,Credit,24,"21-30","9226 Tenth Boulevard",Male,845,Cukup Baik
+189,Amex,Credit,42,"41-50","9566 Tenth Street",Male,730,Cukup Baik
+190,Amex,Credit,40,"31-40","5468 Little Creek Drive",Male,711,Cukup Baik
+191,Amex,Credit,28,"21-30","654 Elm Drive",Male,728,Cukup Baik
+192,Discover,Credit,27,"21-30","888 Fifth Lane",Male,761,Cukup Baik
+193,Discover,Credit,23,"21-30","4343 Mountain View Boulevard",Female,749,Cukup Baik
+194,Mastercard,Credit,52,"51-60","531 Pine Avenue",Male,746,Cukup Baik
+195,Mastercard,Debit (Prepaid),18,"10-20","5263 Little Creek Drive",Female,688,Sedang
+196,Mastercard,Credit,44,"41-50","518 Norfolk Avenue",Female,773,Cukup Baik
+197,Mastercard,Debit,32,"31-40","1867 Bayview Street",Male,724,Cukup Baik
+198,Mastercard,Debit,49,"41-50","732 Lincoln Drive",Female,702,Cukup Baik
+199,Mastercard,Debit,67,"61-70","7927 Plum Lane",Female,720,Cukup Baik
+200,Mastercard,Debit (Prepaid),57,"51-60","4940 Ocean View Drive",Female,701,Cukup Baik
+201,Mastercard,Debit,61,"61-70","206 Pine Lane",Male,732,Cukup Baik
+202,Mastercard,Debit,20,"10-20","75 Third Avenue",Female,850,Cukup Baik
+203,Mastercard,Debit,58,"51-60","407 Park Lane",Female,776,Cukup Baik
+204,Mastercard,Debit,31,"31-40","775 Lexington Boulevard",Female,656,Sedang
+205,Mastercard,Debit,38,"31-40","839 Essex Lane",Male,809,Cukup Baik
+206,Mastercard,Debit (Prepaid),28,"21-30","4633 Sixth Avenue",Female,782,Cukup Baik
+207,Visa,Credit,73,"71-80","518 Main Street",Female,745,Cukup Baik
+208,Visa,Debit,37,"31-40","6976 Ocean View Avenue",Female,804,Cukup Baik
+209,Visa,Credit,61,"61-70","2111 Burns Street",Female,716,Cukup Baik
+210,Visa,Debit,46,"41-50","7677 Little Creek Drive",Male,630,Sedang
+211,Visa,Debit,43,"41-50","441 River Street",Male,755,Cukup Baik
+212,Visa,Credit,52,"51-60","142 First Drive",Male,797,Cukup Baik
+213,Visa,Credit,37,"31-40","345 George Street",Female,629,Sedang
+214,Visa,Debit,30,"21-30","437 Madison Street",Male,652,Sedang
+215,Visa,Credit,18,"10-20","6638 Summit Lane",Male,716,Cukup Baik
+216,Visa,Debit,60,"51-60","378 Fourth Boulevard",Female,687,Sedang
+217,Visa,Credit,42,"41-50","272 Burns Boulevard",Male,744,Cukup Baik
+218,Visa,Debit,59,"51-60","5238 Park Street",Female,810,Cukup Baik
+219,Visa,Debit (Prepaid),47,"41-50","4541 Hill Boulevard",Male,798,Cukup Baik
+220,Visa,Debit,33,"31-40","3550 Sixth Boulevard",Female,722,Cukup Baik
+221,Amex,Credit,63,"61-70","560 Eighth Boulevard",Female,850,Cukup Baik
+222,Amex,Credit,48,"41-50","9243 Oak Street",Female,714,Cukup Baik
+223,Mastercard,Debit,37,"31-40","3748 Mountain View Drive",Female,803,Cukup Baik
+224,Mastercard,Debit,20,"10-20","5789 Ninth Drive",Female,798,Cukup Baik
+225,Mastercard,Debit,32,"31-40","69080 Spruce Street",Male,688,Sedang
+226,Mastercard,Debit,30,"21-30","4262 Madison Drive",Male,724,Cukup Baik
+227,Mastercard,Debit,48,"41-50","496 Hill Lane",Male,736,Cukup Baik
+228,Mastercard,Debit,54,"51-60","2206 South Drive",Female,623,Sedang
+229,Mastercard,Debit,35,"31-40","47428 First Boulevard",Female,725,Cukup Baik
+230,Mastercard,Debit (Prepaid),39,"31-40","675 Fifth Avenue",Female,693,Sedang
+231,Mastercard,Credit,55,"51-60","1442 Mill Avenue",Female,769,Cukup Baik
+232,Mastercard,Debit,57,"51-60","186 First Drive",Female,786,Cukup Baik
+233,Mastercard,Credit,37,"31-40","896 Rose Street",Female,716,Cukup Baik
+234,Mastercard,Debit,42,"41-50","8027 Main Drive",Female,726,Cukup Baik
+235,Mastercard,Debit,32,"31-40","7012 11th Lane",Female,721,Cukup Baik
+236,Mastercard,Debit (Prepaid),36,"31-40","4137 Bayview Drive",Female,540,Buruk
+237,Mastercard,Debit,42,"41-50","331 Oak Lane",Male,563,Buruk
+238,Mastercard,Credit,22,"21-30","9261 Little Creek Lane",Male,675,Sedang
+239,Mastercard,Debit,26,"21-30","2519 Park Boulevard",Male,682,Sedang
+240,Mastercard,Debit,50,"41-50","280 Lake Avenue",Male,745,Cukup Baik
+241,Mastercard,Debit,58,"51-60","6077 Sixth Avenue",Female,737,Cukup Baik
+242,Visa,Credit,41,"41-50","6389 El Camino Drive",Male,850,Cukup Baik
+243,Visa,Debit,20,"10-20","592 Hillside Drive",Male,666,Sedang
+244,Visa,Debit,40,"31-40","8100 Hill Avenue",Female,638,Sedang
+245,Visa,Debit,39,"31-40","3 Main Street",Female,528,Buruk
+246,Visa,Debit (Prepaid),50,"41-50","671 West Drive",Female,791,Cukup Baik
+247,Visa,Credit,49,"41-50","704 East Drive",Female,761,Cukup Baik
+248,Visa,Credit,80,"71-80","80471 Eighth Street",Female,684,Sedang
+249,Visa,Debit,42,"41-50","6777 First Drive",Female,618,Sedang
+250,Visa,Debit,50,"41-50","61674 Elm Drive",Female,786,Cukup Baik
+251,Visa,Debit,21,"21-30","72834 Grant Boulevard",Male,695,Sedang
+252,Visa,Credit,67,"61-70","127 Grant Street",Male,723,Cukup Baik
+253,Visa,Debit,61,"61-70","4110 Lafayette Boulevard",Male,664,Sedang
+254,Visa,Debit,30,"21-30","323 Eighth Drive",Male,734,Cukup Baik
+255,Visa,Debit (Prepaid),18,"10-20","8026 East Drive",Female,718,Cukup Baik
+256,Visa,Debit,75,"71-80","863 Park Drive",Male,714,Cukup Baik
+257,Visa,Debit,52,"51-60","858 Martin Luther King Drive",Male,708,Cukup Baik
+258,Visa,Credit,51,"51-60","572 Mountain View Lane",Male,694,Sedang
+259,Visa,Debit,71,"71-80","391 South Street",Female,689,Sedang
+260,Visa,Debit,62,"61-70","142 Catherine Street",Male,699,Sedang
+261,Visa,Debit,41,"41-50","7061 Littlewood Street",Male,737,Cukup Baik
+262,Visa,Debit,18,"10-20","878 Summit Avenue",Male,734,Cukup Baik
+263,Visa,Debit,30,"21-30","8687 Ninth Drive",Male,663,Sedang
+264,Amex,Credit,49,"41-50","468 Park Lane",Male,696,Sedang
+265,Discover,Credit,44,"41-50","68 Rose Boulevard",Female,713,Cukup Baik
+266,Discover,Credit,19,"10-20","39 Park Lane",Female,724,Cukup Baik
+267,Mastercard,Debit,61,"61-70","7360 Lexington Drive",Female,765,Cukup Baik
+268,Mastercard,Credit,20,"10-20","825 Norfolk Drive",Female,582,Buruk
+269,Mastercard,Debit (Prepaid),21,"21-30","537 Fourth Lane",Female,689,Sedang
+270,Mastercard,Debit,30,"21-30","71682 Catherine Street",Male,655,Sedang
+271,Mastercard,Debit (Prepaid),30,"21-30","352 Hill Lane",Female,685,Sedang
+272,Mastercard,Debit,30,"21-30","387 Plum Avenue",Female,767,Cukup Baik
+273,Mastercard,Debit,42,"41-50","849 Norfolk Lane",Female,665,Sedang
+274,Mastercard,Debit,43,"41-50","4 North Street",Female,799,Cukup Baik
+275,Mastercard,Debit,43,"41-50","973 River Street",Female,710,Cukup Baik
+276,Mastercard,Debit (Prepaid),25,"21-30","9892 George Drive",Male,610,Sedang
+277,Mastercard,Debit,46,"41-50","2292 South Street",Male,799,Cukup Baik
+278,Mastercard,Debit,59,"51-60","910 Eighth Drive",Male,686,Sedang
+279,Mastercard,Credit,25,"21-30","940 Plum Boulevard",Female,753,Cukup Baik
+280,Mastercard,Debit,40,"31-40","3539 Lincoln Boulevard",Female,684,Sedang
+281,Visa,Credit,24,"21-30","4779 Lafayette Avenue",Male,684,Sedang
+282,Visa,Credit,42,"41-50","260 Spruce Avenue",Male,702,Cukup Baik
+283,Visa,Debit,19,"10-20","74 Birch Avenue",Male,680,Sedang
+284,Visa,Debit,51,"51-60","822 Martin Luther King Drive",Male,754,Cukup Baik
+285,Visa,Credit,62,"61-70","702 Elm Drive",Male,731,Cukup Baik
+286,Visa,Debit,38,"31-40","4232 Grant Drive",Male,725,Cukup Baik
+287,Visa,Debit,42,"41-50","152 El Camino Boulevard",Female,710,Cukup Baik
+288,Visa,Debit,45,"41-50","9891 Valley Drive",Female,789,Cukup Baik
+289,Visa,Debit,22,"21-30","109 El Camino Avenue",Female,685,Sedang
+290,Visa,Debit (Prepaid),27,"21-30","293 Wessex Street",Female,687,Sedang
+291,Visa,Debit,64,"61-70","682 Federal Lane",Female,793,Cukup Baik
+292,Visa,Debit,23,"21-30","871 Second Street",Female,717,Cukup Baik
+293,Amex,Credit,32,"31-40","58221 Main Drive",Female,661,Sedang
+294,Amex,Credit,36,"31-40","99 Mill Lane",Male,607,Sedang
+295,Mastercard,Debit (Prepaid),53,"51-60","914 Spruce Drive",Male,681,Sedang
+296,Mastercard,Credit,48,"41-50","9570 North Drive",Male,814,Cukup Baik
+297,Mastercard,Debit,20,"10-20","354 Main Drive",Male,738,Cukup Baik
+298,Mastercard,Debit,28,"21-30","437 Ocean View Drive",Male,686,Sedang
+299,Mastercard,Debit,40,"31-40","196 Plum Lane",Male,622,Sedang
+300,Mastercard,Debit,40,"31-40","69 Martin Luther King Street",Male,750,Cukup Baik
+301,Visa,Credit,47,"41-50","6009 River Avenue",Male,679,Sedang
+302,Visa,Debit,27,"21-30","9354 Lafayette Street",Female,706,Cukup Baik
+303,Visa,Debit,94,"91+","93 Lafayette Boulevard",Male,690,Sedang
+304,Visa,Credit,31,"31-40","6606 Sixth Drive",Male,685,Sedang
+305,Visa,Credit,51,"51-60","9070 Third Boulevard",Male,755,Cukup Baik
+306,Visa,Debit (Prepaid),18,"10-20","9850 Birch Drive",Male,725,Cukup Baik
+307,Visa,Credit,18,"10-20","2846 Lake Avenue",Male,680,Sedang
+308,Visa,Debit,44,"41-50","3675 Bayview Drive",Male,737,Cukup Baik
+309,Amex,Credit,28,"21-30","2473 Lake Avenue",Male,819,Cukup Baik
+310,Discover,Credit,26,"21-30","4840 Summit Lane",Male,666,Sedang
+311,Mastercard,Debit,46,"41-50","8070 Mill Lane",Female,752,Cukup Baik
+312,Mastercard,Debit,18,"10-20","4949 South Avenue",Female,767,Cukup Baik
+313,Mastercard,Debit,32,"31-40","9384 Ocean Avenue",Female,693,Sedang
+314,Mastercard,Debit,27,"21-30","1039 Bayview Drive",Male,557,Buruk
+315,Mastercard,Credit,54,"51-60","112 Burns Lane",Male,692,Sedang
+316,Mastercard,Debit,36,"31-40","995 Martin Luther King Street",Male,719,Cukup Baik
+317,Mastercard,Debit,67,"61-70","816 El Camino Drive",Female,715,Cukup Baik
+318,Visa,Credit,62,"61-70","75540 Valley Street",Male,724,Cukup Baik
+319,Visa,Debit,67,"61-70","388 Third Avenue",Male,628,Sedang
+320,Visa,Credit,34,"31-40","6444 Madison Drive",Male,625,Sedang
+321,Visa,Debit,52,"51-60","262 First Lane",Male,698,Sedang
+322,Visa,Credit,47,"41-50","708 George Street",Male,829,Cukup Baik
+323,Visa,Debit,54,"51-60","782 Hill Lane",Male,683,Sedang
+324,Visa,Credit,21,"21-30","5995 Valley Stream Avenue",Female,792,Cukup Baik
+325,Visa,Credit,45,"41-50","7044 Plum Street",Male,709,Cukup Baik
+326,Visa,Debit,18,"10-20","644 Birch Avenue",Male,652,Sedang
+327,Amex,Credit,44,"41-50","7485 Seventh Street",Male,772,Cukup Baik
+328,Mastercard,Credit,45,"41-50","4391 Lexington Lane",Male,700,Sedang
+329,Mastercard,Credit,70,"61-70","6339 Lafayette Avenue",Male,701,Cukup Baik
+330,Mastercard,Credit,36,"31-40","271 Sixth Drive",Male,711,Cukup Baik
+331,Mastercard,Debit (Prepaid),34,"31-40","30 Catherine Street",Male,732,Cukup Baik
+332,Mastercard,Credit,61,"61-70","8794 Catherine Lane",Male,703,Cukup Baik
+333,Mastercard,Debit,20,"10-20","6877 Jefferson Drive",Female,706,Cukup Baik
+334,Visa,Debit,44,"41-50","8349 Valley Avenue",Male,697,Sedang
+335,Visa,Debit,46,"41-50","75 Birch Lane",Female,688,Sedang
+336,Visa,Debit,23,"21-30","2545 Federal Drive",Male,760,Cukup Baik
+337,Visa,Debit,20,"10-20","2539 Hill Street",Male,850,Cukup Baik
+338,Visa,Debit,68,"61-70","222 Lafayette Lane",Female,686,Sedang
+339,Visa,Debit,19,"10-20","640 Bayview Street",Female,843,Cukup Baik
+340,Visa,Credit,20,"10-20","51 George Avenue",Male,809,Cukup Baik
+341,Visa,Debit (Prepaid),50,"41-50","517 Eighth Drive",Male,734,Cukup Baik
+342,Amex,Credit,18,"10-20","3033 Maple Lane",Male,699,Sedang
+343,Amex,Credit,55,"51-60","919 Ocean View Lane",Female,764,Cukup Baik
+344,Mastercard,Debit,18,"10-20","7193 George Boulevard",Male,577,Buruk
+345,Mastercard,Debit,33,"31-40","67424 Tenth Boulevard",Male,724,Cukup Baik
+346,Mastercard,Debit,90,"81-90","495 Ocean View Lane",Female,687,Sedang
+347,Mastercard,Debit (Prepaid),28,"21-30","5671 Sussex Drive",Female,557,Buruk
+348,Mastercard,Debit (Prepaid),49,"41-50","480 Seventh Lane",Female,719,Cukup Baik
+349,Mastercard,Credit,40,"31-40","1943 Birch Street",Female,685,Sedang
+350,Visa,Debit,62,"61-70","102 Seventh Avenue",Female,737,Cukup Baik
+351,Visa,Debit,91,"91+","984 Little Creek Lane",Female,807,Cukup Baik
+352,Amex,Credit,22,"21-30","32 Valley Drive",Male,680,Sedang
+353,Mastercard,Debit,24,"21-30","932 Essex Street",Female,721,Cukup Baik
+354,Mastercard,Debit,77,"71-80","9 Plum Boulevard",Female,713,Cukup Baik
+355,Mastercard,Debit,22,"21-30","415 Madison Boulevard",Female,691,Sedang
+356,Mastercard,Debit,50,"41-50","24 River Avenue",Female,691,Sedang
+357,Mastercard,Debit,59,"51-60","645 Catherine Lane",Female,735,Cukup Baik
+358,Visa,Debit,36,"31-40","65 Fifth Lane",Female,605,Sedang
+359,Visa,Debit,66,"61-70","338 Littlewood Street",Male,799,Cukup Baik
+360,Mastercard,Debit,43,"41-50","881 Plum Street",Male,791,Cukup Baik
+361,Visa,Credit,43,"41-50","125 Plum Drive",Male,804,Cukup Baik
+362,Visa,Credit,37,"31-40","6680 River Avenue",Male,792,Cukup Baik
+363,Visa,Debit,52,"51-60","7508 Grant Street",Female,701,Cukup Baik
+364,Visa,Debit,65,"61-70","9052 River Lane",Female,775,Cukup Baik
+365,Amex,Credit,55,"51-60","1392 Plum Avenue",Female,719,Cukup Baik
+366,Amex,Credit,50,"41-50","773 12th Street",Female,625,Sedang
+367,Mastercard,Debit,27,"21-30","8893 Valley Drive",Female,756,Cukup Baik
+368,Mastercard,Credit,75,"71-80","2842 Littlewood Avenue",Male,726,Cukup Baik
+369,Mastercard,Debit,39,"31-40","5193 East Street",Male,788,Cukup Baik
+370,Mastercard,Debit (Prepaid),61,"61-70","381 Fifth Lane",Male,655,Sedang
+371,Mastercard,Debit,82,"81-90","19176 Grant Drive",Male,719,Cukup Baik
+372,Mastercard,Debit,32,"31-40","4725 North Street",Male,756,Cukup Baik
+373,Mastercard,Debit,61,"61-70","3270 Grant Avenue",Male,812,Cukup Baik
+374,Visa,Debit,58,"51-60","50 Spruce Street",Male,689,Sedang
+375,Visa,Credit,50,"41-50","4492 Grant Drive",Female,695,Sedang
+376,Visa,Credit,50,"41-50","818 12th Lane",Female,773,Cukup Baik
+377,Visa,Debit,80,"71-80","305 Pine Avenue",Female,750,Cukup Baik
+378,Mastercard,Debit,18,"10-20","512 Second Avenue",Female,596,Buruk
+379,Mastercard,Debit,47,"41-50","837 Lincoln Avenue",Female,765,Cukup Baik
+380,Mastercard,Debit,46,"41-50","3551 Spruce Boulevard",Male,800,Cukup Baik
+381,Mastercard,Debit,26,"21-30","5101 Birch Lane",Male,675,Sedang
+382,Mastercard,Debit,55,"51-60","541 Tenth Street",Male,681,Sedang
+383,Visa,Debit,48,"41-50","6606 Oak Drive",Male,760,Cukup Baik
+384,Visa,Debit,20,"10-20","76089 Grant Boulevard",Male,702,Cukup Baik
+385,Visa,Credit,79,"71-80","9983 Park Drive",Male,740,Cukup Baik
+386,Visa,Debit,48,"41-50","3034 Third Boulevard",Male,655,Sedang
+387,Amex,Credit,34,"31-40","8229 Bayview Avenue",Male,723,Cukup Baik
+388,Amex,Credit,25,"21-30","6444 Maple Lane",Female,749,Cukup Baik
+389,Amex,Credit,27,"21-30","9517 Ninth Street",Male,689,Sedang
+390,Amex,Credit,30,"21-30","4328 Forest Boulevard",Male,681,Sedang
+391,Amex,Credit,85,"81-90","31 Hill Boulevard",Female,731,Cukup Baik
+392,Amex,Credit,50,"41-50","687 Fifth Boulevard",Female,775,Cukup Baik
+393,Amex,Credit,41,"41-50","3536 Burns Street",Male,765,Cukup Baik
+394,Amex,Credit,52,"51-60","514 Pine Boulevard",Male,684,Sedang
+395,Amex,Credit,39,"31-40","1105 Wessex Avenue",Male,739,Cukup Baik
+396,Amex,Credit,89,"81-90","711 South Boulevard",Female,735,Cukup Baik
+397,Amex,Credit,30,"21-30","2328 Little Creek Avenue",Female,770,Cukup Baik
+398,Amex,Credit,49,"41-50","6999 Lexington Lane",Female,737,Cukup Baik
+399,Amex,Credit,37,"31-40","365 Ocean Lane",Female,802,Cukup Baik
+400,Amex,Credit,46,"41-50","539 Pine Boulevard",Female,711,Cukup Baik
+401,Amex,Credit,81,"81-90","84497 Valley Stream Drive",Male,806,Cukup Baik
+402,Amex,Credit,47,"41-50","77931 Lincoln Avenue",Male,744,Cukup Baik
+403,Amex,Credit,33,"31-40","699 Third Avenue",Male,759,Cukup Baik
+404,Amex,Credit,44,"41-50","33 Seventh Boulevard",Male,625,Sedang
+405,Amex,Credit,30,"21-30","640 Spruce Boulevard",Male,627,Sedang
+406,Amex,Credit,23,"21-30","2418 Mill Drive",Female,641,Sedang
+407,Amex,Credit,23,"21-30","9392 Fifth Avenue",Female,750,Cukup Baik
+408,Amex,Credit,58,"51-60","690 Hill Lane",Female,741,Cukup Baik
+409,Amex,Credit,54,"51-60","7561 Littlewood Street",Female,711,Cukup Baik
+410,Amex,Credit,54,"51-60","72990 Second Drive",Female,610,Sedang
+411,Amex,Credit,30,"21-30","649 Sussex Street",Male,775,Cukup Baik
+412,Amex,Credit,25,"21-30","7091 Lexington Lane",Male,810,Cukup Baik
+413,Amex,Credit,21,"21-30","1848 Mountain View Avenue",Male,660,Sedang
+414,Amex,Credit,45,"41-50","471 Eighth Lane",Female,709,Cukup Baik
+415,Amex,Credit,53,"51-60","7571 George Street",Male,763,Cukup Baik
+416,Amex,Credit,86,"81-90","5220 Lincoln Street",Female,765,Cukup Baik
+417,Amex,Credit,21,"21-30","320 Hillside Lane",Male,762,Cukup Baik
+418,Amex,Credit,29,"21-30","7333 George Street",Male,693,Sedang
+419,Amex,Credit,60,"51-60","933 Valley Lane",Male,734,Cukup Baik
+420,Amex,Credit,22,"21-30","1651 Oak Drive",Male,744,Cukup Baik
+421,Discover,Credit,53,"51-60","595 Valley Stream Drive",Female,790,Cukup Baik
+422,Discover,Credit,19,"10-20","5378 Lafayette Avenue",Female,817,Cukup Baik
+423,Discover,Credit,28,"21-30","19 El Camino Drive",Female,696,Sedang
+424,Discover,Credit,24,"21-30","4020 Littlewood Street",Female,772,Cukup Baik
+425,Discover,Credit,38,"31-40","8897 East Street",Male,688,Sedang
+426,Discover,Credit,26,"21-30","8709 Fifth Street",Female,754,Cukup Baik
+427,Discover,Credit,44,"41-50","33 Pine Lane",Female,705,Cukup Baik
+428,Discover,Credit,39,"31-40","6405 Fifth Avenue",Male,689,Sedang
+429,Discover,Credit,22,"21-30","8145 Spruce Boulevard",Male,683,Sedang
+430,Discover,Credit,52,"51-60","903 Hill Boulevard",Female,685,Sedang
+431,Discover,Credit,19,"10-20","973 Federal Avenue",Female,691,Sedang
+432,Discover,Credit,55,"51-60","4329 El Camino Boulevard",Female,686,Sedang
+433,Discover,Credit,49,"41-50","6829 Main Boulevard",Male,771,Cukup Baik
+434,Discover,Credit,31,"31-40","7808 Lincoln Drive",Female,785,Cukup Baik
+435,Discover,Credit,71,"71-80","5023 11th Avenue",Female,679,Sedang
+436,Discover,Credit,20,"10-20","599 Hillside Drive",Female,623,Sedang
+437,Discover,Credit,46,"41-50","9528 Hill Street",Female,718,Cukup Baik
+438,Discover,Credit,32,"31-40","12960 El Camino Lane",Female,633,Sedang
+439,Discover,Credit,33,"31-40","142 Valley Drive",Female,697,Sedang
+440,Mastercard,Debit,43,"41-50","689 Valley Stream Lane",Female,703,Cukup Baik
+441,Mastercard,Debit,41,"41-50","608 Washington Drive",Female,635,Sedang
+442,Mastercard,Debit,47,"41-50","801 12th Drive",Male,791,Cukup Baik
+443,Mastercard,Debit (Prepaid),31,"31-40","913 Mill Boulevard",Male,697,Sedang
+444,Mastercard,Debit,24,"21-30","549 Ocean Boulevard",Female,748,Cukup Baik
+445,Mastercard,Credit,42,"41-50","9864 Fifth Lane",Female,645,Sedang
+446,Mastercard,Debit,23,"21-30","28 Madison Lane",Male,703,Cukup Baik
+447,Mastercard,Debit,79,"71-80","5336 Tenth Drive",Male,796,Cukup Baik
+448,Mastercard,Credit,41,"41-50","992 Martin Luther King Avenue",Male,698,Sedang
+449,Mastercard,Debit,58,"51-60","901 Oak Street",Female,729,Cukup Baik
+450,Mastercard,Debit,39,"31-40","253 Lexington Avenue",Male,739,Cukup Baik
+451,Mastercard,Debit,65,"61-70","654 Birch Lane",Male,711,Cukup Baik
+452,Mastercard,Debit,31,"31-40","557 Catherine Drive",Male,704,Cukup Baik
+453,Mastercard,Debit,26,"21-30","682 Martin Luther King Avenue",Female,655,Sedang
+454,Mastercard,Debit,88,"81-90","9192 Birch Lane",Female,751,Cukup Baik
+455,Mastercard,Debit,41,"41-50","8676 River Avenue",Female,684,Sedang
+456,Mastercard,Debit,54,"51-60","600 Grant Lane",Male,751,Cukup Baik
+457,Mastercard,Debit (Prepaid),34,"31-40","378 West Boulevard",Female,705,Cukup Baik
+458,Mastercard,Debit,46,"41-50","298 Federal Avenue",Male,530,Buruk
+459,Mastercard,Debit,65,"61-70","9079 Second Drive",Male,734,Cukup Baik
+460,Mastercard,Debit,65,"61-70","696 George Lane",Male,608,Sedang
+461,Mastercard,Credit,42,"41-50","28 Hillside Boulevard",Female,784,Cukup Baik
+462,Mastercard,Credit,63,"61-70","219 Ocean Avenue",Female,767,Cukup Baik
+463,Mastercard,Debit,32,"31-40","412 Fifth Boulevard",Female,719,Cukup Baik
+464,Mastercard,Debit,36,"31-40","2352 Bayview Boulevard",Male,850,Cukup Baik
+465,Mastercard,Debit,47,"41-50","38318 West Drive",Male,724,Cukup Baik
+466,Mastercard,Debit,58,"51-60","416 Madison Street",Female,643,Sedang
+467,Mastercard,Debit,38,"31-40","969 Lexington Lane",Male,705,Cukup Baik
+468,Mastercard,Debit,48,"41-50","76 Lexington Boulevard",Female,714,Cukup Baik
+469,Mastercard,Credit,67,"61-70","488 Bayview Boulevard",Female,682,Sedang
+470,Mastercard,Debit (Prepaid),56,"51-60","281 Martin Luther King Avenue",Male,747,Cukup Baik
+471,Mastercard,Debit (Prepaid),52,"51-60","123 Ocean View Street",Male,629,Sedang
+472,Mastercard,Debit,50,"41-50","4480 Hillside Avenue",Male,672,Sedang
+473,Mastercard,Debit,33,"31-40","26191 George Drive",Female,682,Sedang
+474,Mastercard,Debit,55,"51-60","455 Little Creek Boulevard",Male,683,Sedang
+475,Mastercard,Credit,20,"10-20","135 Spruce Lane",Male,727,Cukup Baik
+476,Mastercard,Debit,68,"61-70","26 El Camino Street",Male,724,Cukup Baik
+477,Mastercard,Debit,57,"51-60","45 Maple Lane",Male,697,Sedang
+478,Mastercard,Debit,54,"51-60","9939 Mill Lane",Male,803,Cukup Baik
+479,Mastercard,Debit,57,"51-60","936 12th Street",Male,692,Sedang
+480,Mastercard,Debit,50,"41-50","749 Oak Street",Male,713,Cukup Baik
+481,Mastercard,Debit,18,"10-20","628 Norfolk Avenue",Male,653,Sedang
+482,Mastercard,Debit,45,"41-50","195 Eighth Boulevard",Male,714,Cukup Baik
+483,Mastercard,Credit,49,"41-50","253 West Drive",Female,713,Cukup Baik
+484,Mastercard,Debit,84,"81-90","4819 Martin Luther King Drive",Female,718,Cukup Baik
+485,Mastercard,Credit,39,"31-40","6889 Summit Lane",Male,665,Sedang
+486,Mastercard,Debit,23,"21-30","938 Maple Boulevard",Male,810,Cukup Baik
+487,Mastercard,Debit,52,"51-60","9028 Valley Stream Avenue",Male,735,Cukup Baik
+488,Mastercard,Debit (Prepaid),34,"31-40","927 River Street",Male,745,Cukup Baik
+489,Mastercard,Debit,36,"31-40","430 Grant Boulevard",Male,684,Sedang
+490,Mastercard,Debit,86,"81-90","90 Lexington Drive",Male,699,Sedang
+491,Mastercard,Debit,40,"31-40","2336 George Drive",Male,651,Sedang
+492,Mastercard,Debit (Prepaid),41,"41-50","2397 Madison Avenue",Male,850,Cukup Baik
+493,Mastercard,Debit,18,"10-20","33 Lafayette Lane",Male,786,Cukup Baik
+494,Mastercard,Debit,39,"31-40","700 Rose Avenue",Male,779,Cukup Baik
+495,Mastercard,Debit,49,"41-50","6427 Martin Luther King Drive",Male,831,Cukup Baik
+496,Mastercard,Debit,47,"41-50","16893 Fifth Avenue",Male,730,Cukup Baik
+497,Mastercard,Debit (Prepaid),63,"61-70","8414 Tenth Drive",Male,850,Cukup Baik
+498,Mastercard,Credit,20,"10-20","53 Elm Street",Male,660,Sedang
+499,Mastercard,Debit,23,"21-30","8373 Birch Boulevard",Male,742,Cukup Baik
+500,Mastercard,Debit,21,"21-30","4497 Summit Boulevard",Female,749,Cukup Baik
+501,Mastercard,Debit,24,"21-30","952 Plum Avenue",Male,765,Cukup Baik
+502,Mastercard,Debit,46,"41-50","434 Bayview Avenue",Male,745,Cukup Baik
+503,Mastercard,Credit,47,"41-50","54 Valley Lane",Female,694,Sedang
+504,Mastercard,Credit,38,"31-40","377 Mountain View Drive",Female,705,Cukup Baik
+505,Mastercard,Debit,39,"31-40","31 Lincoln Avenue",Female,609,Sedang
+506,Mastercard,Credit,56,"51-60","2742 El Camino Boulevard",Male,733,Cukup Baik
+507,Mastercard,Credit,22,"21-30","79 Burns Drive",Male,695,Sedang
+508,Mastercard,Debit,24,"21-30","3221 Tenth Lane",Male,757,Cukup Baik
+509,Mastercard,Debit (Prepaid),33,"31-40","239 Sussex Drive",Male,702,Cukup Baik
+510,Mastercard,Debit (Prepaid),27,"21-30","311 Little Creek Boulevard",Male,777,Cukup Baik
+511,Mastercard,Debit,66,"61-70","153 Tenth Lane",Male,661,Sedang
+512,Mastercard,Debit,48,"41-50","3248 Summit Lane",Male,718,Cukup Baik
+513,Mastercard,Debit (Prepaid),24,"21-30","841 Spruce Drive",Male,712,Cukup Baik
+514,Mastercard,Debit,58,"51-60","967 Norfolk Avenue",Male,698,Sedang
+515,Mastercard,Debit,61,"61-70","9525 First Boulevard",Male,676,Sedang
+516,Mastercard,Debit,35,"31-40","34 Summit Drive",Male,697,Sedang
+517,Mastercard,Debit (Prepaid),33,"31-40","87 Ocean Avenue",Male,811,Cukup Baik
+518,Mastercard,Credit,31,"31-40","558 North Street",Male,523,Buruk
+519,Mastercard,Debit (Prepaid),57,"51-60","839 East Avenue",Female,770,Cukup Baik
+520,Mastercard,Debit,45,"41-50","3346 Hillside Street",Male,766,Cukup Baik
+521,Mastercard,Debit,21,"21-30","1241 11th Boulevard",Female,652,Sedang
+522,Mastercard,Debit (Prepaid),26,"21-30","4726 Third Street",Female,774,Cukup Baik
+523,Mastercard,Debit,27,"21-30","444 Forest Boulevard",Female,773,Cukup Baik
+524,Mastercard,Debit (Prepaid),57,"51-60","252 Eighth Lane",Male,726,Cukup Baik
+525,Mastercard,Debit,55,"51-60","959 Tenth Street",Male,703,Cukup Baik
+526,Mastercard,Debit (Prepaid),51,"51-60","54870 Lexington Drive",Female,627,Sedang
+527,Mastercard,Credit,58,"51-60","217 Fifth Lane",Male,636,Sedang
+528,Mastercard,Debit (Prepaid),38,"31-40","5661 Forest Avenue",Male,718,Cukup Baik
+529,Mastercard,Debit,55,"51-60","9604 West Boulevard",Male,721,Cukup Baik
+530,Mastercard,Debit,78,"71-80","34533 Ninth Avenue",Male,682,Sedang
+531,Mastercard,Debit,18,"10-20","6294 Essex Drive",Male,722,Cukup Baik
+532,Mastercard,Credit,27,"21-30","2282 Main Drive",Male,775,Cukup Baik
+533,Mastercard,Credit,22,"21-30","385 Lexington Boulevard",Male,677,Sedang
+534,Mastercard,Debit (Prepaid),27,"21-30","31919 Summit Boulevard",Female,790,Cukup Baik
+535,Mastercard,Debit,51,"51-60","1248 Second Drive",Female,643,Sedang
+536,Mastercard,Debit (Prepaid),21,"21-30","894 Catherine Boulevard",Male,789,Cukup Baik
+537,Mastercard,Debit,19,"10-20","35 Fifth Street",Female,703,Cukup Baik
+538,Mastercard,Credit,66,"61-70","7888 Fourth Street",Female,814,Cukup Baik
+539,Mastercard,Debit,21,"21-30","3701 Birch Street",Female,765,Cukup Baik
+540,Mastercard,Debit,25,"21-30","76009 Valley Stream Boulevard",Female,634,Sedang
+541,Mastercard,Debit (Prepaid),51,"51-60","2699 Littlewood Avenue",Female,645,Sedang
+542,Mastercard,Debit,52,"51-60","4092 El Camino Lane",Female,704,Cukup Baik
+543,Mastercard,Debit,43,"41-50","742 Lake Street",Female,749,Cukup Baik
+544,Mastercard,Debit (Prepaid),34,"31-40","100 Rose Lane",Female,676,Sedang
+545,Mastercard,Debit,55,"51-60","22 First Boulevard",Male,715,Cukup Baik
+546,Mastercard,Debit,51,"51-60","599 East Lane",Male,681,Sedang
+547,Mastercard,Debit,70,"61-70","111 Hillside Avenue",Male,778,Cukup Baik
+548,Mastercard,Debit,33,"31-40","81 Wessex Drive",Male,809,Cukup Baik
+549,Mastercard,Credit,51,"51-60","774 Wessex Lane",Male,719,Cukup Baik
+550,Mastercard,Credit,76,"71-80","4937 Maple Lane",Male,763,Cukup Baik
+551,Mastercard,Debit,65,"61-70","54 George Avenue",Male,776,Cukup Baik
+552,Mastercard,Debit,54,"51-60","1416 Bayview Avenue",Male,602,Sedang
+553,Mastercard,Debit,73,"71-80","471 Ocean Boulevard",Male,628,Sedang
+554,Mastercard,Debit,59,"51-60","6310 Sixth Street",Male,690,Sedang
+555,Mastercard,Debit,31,"31-40","6692 Lake Street",Male,514,Buruk
+556,Mastercard,Debit,46,"41-50","5659 Park Avenue",Male,715,Cukup Baik
+557,Mastercard,Credit,59,"51-60","350 Jefferson Boulevard",Male,669,Sedang
+558,Mastercard,Debit,19,"10-20","29894 Martin Luther King Lane",Male,692,Sedang
+559,Mastercard,Debit,56,"51-60","593 Valley Stream Drive",Male,490,Tidak Baik
+560,Mastercard,Debit (Prepaid),59,"51-60","9099 Little Creek Drive",Male,676,Sedang
+561,Mastercard,Debit,48,"41-50","604 Pine Street",Male,834,Cukup Baik
+562,Mastercard,Debit,37,"31-40","1059 Elm Avenue",Female,673,Sedang
+563,Mastercard,Debit,70,"61-70","3485 Federal Avenue",Male,737,Cukup Baik
+564,Mastercard,Debit (Prepaid),57,"51-60","2288 Pine Lane",Male,765,Cukup Baik
+565,Mastercard,Debit,54,"51-60","6721 Sussex Drive",Male,757,Cukup Baik
+566,Mastercard,Credit,60,"51-60","8179 Valley Stream Drive",Female,814,Cukup Baik
+567,Mastercard,Debit,25,"21-30","9804 Third Street",Male,761,Cukup Baik
+568,Mastercard,Debit,24,"21-30","5573 Sixth Lane",Male,778,Cukup Baik
+569,Mastercard,Debit,52,"51-60","29 Martin Luther King Lane",Male,662,Sedang
+570,Mastercard,Debit,34,"31-40","6781 Ocean View Drive",Male,625,Sedang
+571,Mastercard,Credit,42,"41-50","8580 Valley Stream Avenue",Male,739,Cukup Baik
+572,Mastercard,Credit,29,"21-30","202 Washington Drive",Male,680,Sedang
+573,Mastercard,Debit,52,"51-60","7970 Little Creek Drive",Male,589,Buruk
+574,Mastercard,Debit (Prepaid),22,"21-30","7296 Second Lane",Male,713,Cukup Baik
+575,Mastercard,Debit,84,"81-90","6478 Valley Stream Avenue",Male,813,Cukup Baik
+576,Mastercard,Debit,68,"61-70","478 Hill Avenue",Female,638,Sedang
+577,Mastercard,Debit,28,"21-30","769 Madison Drive",Female,763,Cukup Baik
+578,Mastercard,Credit,75,"71-80","5934 Essex Boulevard",Male,777,Cukup Baik
+579,Mastercard,Credit,30,"21-30","774 Park Lane",Male,772,Cukup Baik
+580,Mastercard,Debit,35,"31-40","5094 Lafayette Boulevard",Male,768,Cukup Baik
+581,Mastercard,Debit,48,"41-50","1813 Second Lane",Male,684,Sedang
+582,Mastercard,Debit,53,"51-60","415 Lafayette Drive",Male,583,Buruk
+583,Mastercard,Debit (Prepaid),64,"61-70","28 West Lane",Male,636,Sedang
+584,Mastercard,Debit,61,"61-70","8823 South Drive",Male,743,Cukup Baik
+585,Mastercard,Debit,52,"51-60","5581 Federal Street",Male,584,Buruk
+586,Mastercard,Debit,37,"31-40","372 12th Boulevard",Male,751,Cukup Baik
+587,Mastercard,Debit (Prepaid),20,"10-20","5310 Hillside Avenue",Male,643,Sedang
+588,Mastercard,Debit,21,"21-30","2183 Catherine Boulevard",Male,844,Cukup Baik
+589,Mastercard,Debit (Prepaid),58,"51-60","250 Hillside Drive",Male,595,Buruk
+590,Mastercard,Debit,37,"31-40","300 West Avenue",Male,724,Cukup Baik
+591,Mastercard,Debit,50,"41-50","320 Second Street",Male,696,Sedang
+592,Mastercard,Credit,68,"61-70","69 Spruce Avenue",Male,714,Cukup Baik
+593,Mastercard,Debit,19,"10-20","804 Seventh Boulevard",Male,635,Sedang
+594,Mastercard,Debit,29,"21-30","7109 Rose Street",Male,698,Sedang
+595,Mastercard,Debit,79,"71-80","132 Lexington Drive",Male,699,Sedang
+596,Mastercard,Debit,28,"21-30","914 George Street",Male,721,Cukup Baik
+597,Mastercard,Debit (Prepaid),72,"71-80","5138 North Drive",Male,736,Cukup Baik
+598,Mastercard,Credit,47,"41-50","305 Elm Street",Male,628,Sedang
+599,Mastercard,Debit (Prepaid),26,"21-30","4872 Lexington Avenue",Male,722,Cukup Baik
+600,Mastercard,Debit,18,"10-20","2819 Littlewood Lane",Male,578,Buruk
+601,Mastercard,Debit (Prepaid),68,"61-70","5828 Wessex Drive",Male,761,Cukup Baik
+602,Mastercard,Credit,57,"51-60","46 South Street",Male,681,Sedang
+603,Mastercard,Debit,42,"41-50","66 Norfolk Avenue",Female,611,Sedang
+604,Mastercard,Credit,60,"51-60","53 Madison Street",Male,736,Cukup Baik
+605,Mastercard,Debit,42,"41-50","663 Summit Boulevard",Male,725,Cukup Baik
+606,Mastercard,Debit,48,"41-50","1773 Hill Street",Male,747,Cukup Baik
+607,Mastercard,Debit,25,"21-30","55 Third Drive",Male,771,Cukup Baik
+608,Mastercard,Debit,32,"31-40","702 Grant Drive",Male,769,Cukup Baik
+609,Mastercard,Debit (Prepaid),59,"51-60","795 Tenth Street",Male,717,Cukup Baik
+610,Mastercard,Debit,18,"10-20","36 First Drive",Male,713,Cukup Baik
+611,Mastercard,Debit,23,"21-30","16 Jefferson Drive",Male,758,Cukup Baik
+612,Mastercard,Debit,88,"81-90","336 North Street",Female,838,Cukup Baik
+613,Mastercard,Debit (Prepaid),39,"31-40","7549 Fourth Lane",Female,712,Cukup Baik
+614,Mastercard,Credit,84,"81-90","129 Sussex Street",Female,779,Cukup Baik
+615,Mastercard,Debit (Prepaid),35,"31-40","3963 Essex Drive",Female,713,Cukup Baik
+616,Mastercard,Debit,45,"41-50","4173 Wessex Avenue",Female,586,Buruk
+617,Mastercard,Debit,27,"21-30","5048 Catherine Drive",Female,691,Sedang
+618,Mastercard,Debit,32,"31-40","3525 Second Lane",Male,701,Cukup Baik
+619,Mastercard,Debit,54,"51-60","498 Littlewood Avenue",Male,748,Cukup Baik
+620,Mastercard,Debit (Prepaid),26,"21-30","930 Mill Drive",Male,588,Buruk
+621,Mastercard,Debit,51,"51-60","2227 Federal Lane",Male,612,Sedang
+622,Mastercard,Debit (Prepaid),23,"21-30","986 East Avenue",Male,738,Cukup Baik
+623,Mastercard,Debit,63,"61-70","3283 Park Lane",Male,616,Sedang
+624,Mastercard,Debit,33,"31-40","515 Spruce Boulevard",Male,710,Cukup Baik
+625,Mastercard,Debit,19,"10-20","4135 Valley Stream Lane",Female,680,Sedang
+626,Mastercard,Debit (Prepaid),22,"21-30","394 Essex Boulevard",Female,746,Cukup Baik
+627,Mastercard,Debit,50,"41-50","6669 Burns Street",Male,717,Cukup Baik
+628,Mastercard,Debit,57,"51-60","4 George Lane",Male,815,Cukup Baik
+629,Mastercard,Debit (Prepaid),72,"71-80","4388 Hillside Street",Male,793,Cukup Baik
+630,Mastercard,Debit,60,"51-60","1583 Grant Avenue",Male,491,Tidak Baik
+631,Mastercard,Credit,83,"81-90","273 Elm Drive",Female,682,Sedang
+632,Mastercard,Credit,20,"10-20","12694 Fourth Boulevard",Female,703,Cukup Baik
+633,Mastercard,Credit,36,"31-40","5506 Fifth Boulevard",Female,743,Cukup Baik
+634,Mastercard,Debit,49,"41-50","5063 Seventh Avenue",Female,683,Sedang
+635,Mastercard,Debit,25,"21-30","5338 Fifth Boulevard",Female,731,Cukup Baik
+636,Mastercard,Credit,47,"41-50","1342 Hill Lane",Female,793,Cukup Baik
+637,Mastercard,Debit,42,"41-50","794 Lake Street",Female,771,Cukup Baik
+638,Mastercard,Debit,65,"61-70","674 Elm Boulevard",Female,679,Sedang
+639,Mastercard,Debit,55,"51-60","82 Jefferson Avenue",Female,654,Sedang
+640,Mastercard,Debit,29,"21-30","8677 Littlewood Lane",Female,629,Sedang
+641,Mastercard,Debit,62,"61-70","878 Forest Street",Male,735,Cukup Baik
+642,Mastercard,Debit,35,"31-40","96 Ninth Drive",Female,648,Sedang
+643,Mastercard,Debit,29,"21-30","892 Spruce Street",Female,697,Sedang
+644,Mastercard,Debit,58,"51-60","511 Grant Avenue",Female,741,Cukup Baik
+645,Mastercard,Debit,63,"61-70","174 Catherine Boulevard",Female,750,Cukup Baik
+646,Mastercard,Debit (Prepaid),38,"31-40","354 Federal Street",Female,786,Cukup Baik
+647,Mastercard,Debit,31,"31-40","27 Birch Avenue",Female,758,Cukup Baik
+648,Mastercard,Debit,40,"31-40","466 Pine Drive",Female,674,Sedang
+649,Mastercard,Credit,48,"41-50","9 Fourth Drive",Male,847,Cukup Baik
+650,Mastercard,Debit,45,"41-50","3916 Tenth Boulevard",Male,707,Cukup Baik
+651,Mastercard,Credit,53,"51-60","810 Summit Lane",Female,643,Sedang
+652,Mastercard,Debit,82,"81-90","9952 South Lane",Female,784,Cukup Baik
+653,Mastercard,Debit,19,"10-20","939 Lake Drive",Female,745,Cukup Baik
+654,Mastercard,Debit,47,"41-50","646 South Lane",Female,524,Buruk
+655,Mastercard,Debit (Prepaid),49,"41-50","211 Lexington Drive",Female,552,Buruk
+656,Mastercard,Credit,61,"61-70","98 Ninth Street",Female,704,Cukup Baik
+657,Mastercard,Debit,83,"81-90","2780 Martin Luther King Drive",Female,705,Cukup Baik
+658,Mastercard,Debit,40,"31-40","7476 First Lane",Female,725,Cukup Baik
+659,Mastercard,Debit,57,"51-60","5079 Sussex Avenue",Male,812,Cukup Baik
+660,Mastercard,Debit,31,"31-40","256 Jefferson Street",Female,680,Sedang
+661,Mastercard,Debit,64,"61-70","894 Ocean Avenue",Male,566,Buruk
+662,Mastercard,Credit,32,"31-40","670 Tenth Drive",Female,822,Cukup Baik
+663,Mastercard,Credit,68,"61-70","6398 Lake Lane",Female,655,Sedang
+664,Mastercard,Credit,22,"21-30","751 Fifth Street",Female,697,Sedang
+665,Mastercard,Debit,81,"81-90","374 Lexington Street",Female,790,Cukup Baik
+666,Mastercard,Debit,57,"51-60","919 Lafayette Avenue",Male,725,Cukup Baik
+667,Mastercard,Credit,83,"81-90","588 Lincoln Street",Male,714,Cukup Baik
+668,Mastercard,Debit (Prepaid),87,"81-90","8569 Wessex Boulevard",Female,747,Cukup Baik
+669,Mastercard,Credit,38,"31-40","2182 Martin Luther King Street",Female,683,Sedang
+670,Mastercard,Debit,21,"21-30","7469 El Camino Street",Female,801,Tidak Baik
+671,Mastercard,Debit,37,"31-40","363 Main Lane",Female,769,Cukup Baik
+672,Mastercard,Debit,37,"31-40","95873 Madison Boulevard",Male,722,Cukup Baik
+673,Mastercard,Debit,48,"41-50","1772 Essex Boulevard",Male,722,Cukup Baik
+674,Mastercard,Credit,63,"61-70","13 Sixth Boulevard",Female,756,Cukup Baik
+675,Mastercard,Debit,40,"31-40","42 Martin Luther King Drive",Male,724,Cukup Baik
+676,Mastercard,Credit,40,"31-40","663 Third Drive",Male,775,Cukup Baik
+677,Mastercard,Debit,40,"31-40","855 Sussex Avenue",Male,729,Cukup Baik
+678,Mastercard,Debit,63,"61-70","861 Martin Luther King Boulevard",Female,850,Cukup Baik
+679,Mastercard,Debit,57,"51-60","1690 Main Avenue",Male,765,Cukup Baik
+680,Mastercard,Debit,42,"41-50","800 Madison Street",Female,799,Cukup Baik
+681,Mastercard,Debit,19,"10-20","95 Main Avenue",Female,654,Sedang
+682,Mastercard,Debit,58,"51-60","2130 Valley Stream Lane",Male,724,Cukup Baik
+683,Mastercard,Credit,61,"61-70","201 Grant Drive",Male,704,Cukup Baik
+684,Mastercard,Credit,51,"51-60","1246 11th Boulevard",Male,661,Sedang
+685,Mastercard,Credit,21,"21-30","5263 Fifth Avenue",Male,778,Cukup Baik
+686,Mastercard,Debit,64,"61-70","25521 First Street",Male,683,Sedang
+687,Mastercard,Credit,20,"10-20","1693 Spruce Street",Male,725,Cukup Baik
+688,Mastercard,Debit,44,"41-50","5125 Elm Drive",Male,760,Cukup Baik
+689,Mastercard,Debit,65,"61-70","440 Maple Drive",Female,709,Cukup Baik
+690,Mastercard,Debit,71,"71-80","149 Burns Boulevard",Female,692,Sedang
+691,Mastercard,Debit,34,"31-40","232 Jefferson Boulevard",Female,561,Buruk
+692,Mastercard,Debit,52,"51-60","23 Sussex Lane",Female,701,Cukup Baik
+693,Mastercard,Debit,20,"10-20","5342 Valley Stream Avenue",Female,703,Cukup Baik
+694,Mastercard,Credit,29,"21-30","1598 Elm Street",Male,615,Sedang
+695,Mastercard,Debit (Prepaid),49,"41-50","530 Main Boulevard",Female,662,Sedang
+696,Mastercard,Debit,74,"71-80","5064 North Lane",Female,766,Cukup Baik
+697,Mastercard,Debit,56,"51-60","889 Martin Luther King Avenue",Female,742,Cukup Baik
+698,Mastercard,Debit,55,"51-60","886 Little Creek Drive",Female,699,Sedang
+699,Mastercard,Debit (Prepaid),42,"41-50","9141 Ocean View Lane",Male,698,Sedang
+700,Mastercard,Debit (Prepaid),21,"21-30","649 Second Avenue",Female,590,Buruk
+701,Mastercard,Debit,28,"21-30","7087 Plum Street",Female,701,Cukup Baik
+702,Mastercard,Credit,46,"41-50","33 Tenth Street",Female,721,Cukup Baik
+703,Mastercard,Debit,53,"51-60","864 Jefferson Drive",Female,711,Cukup Baik
+704,Mastercard,Credit,51,"51-60","6840 North Lane",Female,840,Cukup Baik
+705,Mastercard,Credit,84,"81-90","136 Hillside Avenue",Female,609,Sedang
+706,Mastercard,Debit,33,"31-40","212 Ocean View Avenue",Female,602,Sedang
+707,Mastercard,Debit (Prepaid),22,"21-30","5941 South Lane",Female,576,Buruk
+708,Mastercard,Debit,63,"61-70","3 Madison Street",Female,722,Cukup Baik
+709,Mastercard,Credit,26,"21-30","3114 East Street",Female,742,Cukup Baik
+710,Mastercard,Credit,60,"51-60","29 12th Avenue",Female,729,Cukup Baik
+711,Mastercard,Debit,39,"31-40","6757 Eighth Avenue",Male,657,Sedang
+712,Mastercard,Credit,74,"71-80","54 Lafayette Street",Female,720,Cukup Baik
+713,Mastercard,Debit (Prepaid),25,"21-30","224 Mountain View Boulevard",Female,691,Sedang
+714,Mastercard,Debit,61,"61-70","72 Second Street",Female,760,Cukup Baik
+715,Mastercard,Debit,37,"31-40","94 Ocean Avenue",Female,821,Cukup Baik
+716,Mastercard,Debit,31,"31-40","1495 Elm Boulevard",Male,769,Cukup Baik
+717,Mastercard,Credit,23,"21-30","361 Fourth Street",Female,659,Sedang
+718,Mastercard,Debit,48,"41-50","7944 Hill Lane",Male,655,Sedang
+719,Mastercard,Debit,53,"51-60","1959 Forest Street",Female,767,Cukup Baik
+720,Mastercard,Debit,36,"31-40","980 Federal Drive",Female,682,Sedang
+721,Mastercard,Credit,39,"31-40","9735 Birch Street",Male,850,Cukup Baik
+722,Mastercard,Credit,25,"21-30","3357 Hill Lane",Male,707,Cukup Baik
+723,Mastercard,Debit,59,"51-60","3179 Seventh Drive",Female,828,Cukup Baik
+724,Mastercard,Debit (Prepaid),45,"41-50","819 El Camino Boulevard",Female,731,Cukup Baik
+725,Mastercard,Debit,18,"10-20","392 Rose Drive",Male,709,Cukup Baik
+726,Mastercard,Debit (Prepaid),58,"51-60","845 Littlewood Boulevard",Male,717,Cukup Baik
+727,Mastercard,Debit,44,"41-50","310 Bayview Boulevard",Male,801,Tidak Baik
+728,Mastercard,Debit,30,"21-30","385 Grant Street",Female,721,Cukup Baik
+729,Mastercard,Debit,80,"71-80","499 Lafayette Lane",Female,850,Cukup Baik
+730,Mastercard,Debit,51,"51-60","932 Bayview Avenue",Male,713,Cukup Baik
+731,Mastercard,Debit,31,"31-40","5558 Littlewood Avenue",Male,703,Cukup Baik
+732,Mastercard,Debit,60,"51-60","513 Tenth Avenue",Male,756,Cukup Baik
+733,Mastercard,Debit,36,"31-40","895 Lexington Lane",Male,606,Sedang
+734,Mastercard,Debit,43,"41-50","57799 Oak Boulevard",Female,693,Sedang
+735,Mastercard,Debit,49,"41-50","676 Bayview Street",Female,752,Cukup Baik
+736,Mastercard,Credit,27,"21-30","8440 Park Drive",Female,741,Cukup Baik
+737,Mastercard,Debit,61,"61-70","8301 Tenth Drive",Female,758,Cukup Baik
+738,Mastercard,Debit,57,"51-60","15664 Lafayette Street",Female,707,Cukup Baik
+739,Mastercard,Debit (Prepaid),38,"31-40","6022 Mill Street",Female,622,Sedang
+740,Mastercard,Debit (Prepaid),30,"21-30","9104 Second Avenue",Female,683,Sedang
+741,Mastercard,Debit,75,"71-80","239 Third Drive",Male,826,Cukup Baik
+742,Mastercard,Debit,69,"61-70","829 Mill Boulevard",Female,698,Sedang
+743,Mastercard,Debit,44,"41-50","5810 Sixth Drive",Female,682,Sedang
+744,Visa,Debit,58,"51-60","927 Ocean View Drive",Female,842,Cukup Baik
+745,Visa,Debit,18,"10-20","293 First Boulevard",Male,752,Cukup Baik
+746,Visa,Debit,63,"61-70","28136 Wessex Street",Male,689,Sedang
+747,Visa,Credit,63,"61-70","716 Lafayette Street",Male,687,Sedang
+748,Visa,Debit,55,"51-60","2100 Summit Street",Male,706,Cukup Baik
+749,Visa,Debit,22,"21-30","4098 Park Drive",Male,674,Sedang
+750,Visa,Debit,61,"61-70","475 Oak Boulevard",Female,694,Sedang
+751,Visa,Debit,61,"61-70","860 Martin Luther King Boulevard",Female,593,Buruk
+752,Visa,Debit,65,"61-70","5814 Lincoln Lane",Female,664,Sedang
+753,Visa,Credit,53,"51-60","919 Oak Boulevard",Female,605,Sedang
+754,Visa,Debit,76,"71-80","15 Elm Lane",Female,705,Cukup Baik
+755,Visa,Debit,74,"71-80","951 11th Avenue",Female,642,Sedang
+756,Visa,Debit (Prepaid),66,"61-70","8651 North Boulevard",Female,679,Sedang
+757,Visa,Credit,62,"61-70","956 Lincoln Boulevard",Female,691,Sedang
+758,Visa,Debit (Prepaid),63,"61-70","39126 El Camino Boulevard",Male,764,Cukup Baik
+759,Visa,Debit,60,"51-60","575 Bayview Lane",Male,687,Sedang
+760,Visa,Credit,56,"51-60","532 Sixth Drive",Female,778,Cukup Baik
+761,Visa,Debit,18,"10-20","94 Lafayette Avenue",Female,726,Cukup Baik
+762,Visa,Debit,49,"41-50","813 Fifth Boulevard",Male,683,Sedang
+763,Visa,Debit (Prepaid),35,"31-40","583 Seventh Street",Male,642,Sedang
+764,Visa,Credit,77,"71-80","6864 Norfolk Boulevard",Female,712,Cukup Baik
+765,Visa,Debit,18,"10-20","188 Ninth Boulevard",Male,778,Cukup Baik
+766,Visa,Debit,44,"41-50","66 Plum Avenue",Female,685,Sedang
+767,Visa,Debit,32,"31-40","7096 Park Street",Female,686,Sedang
+768,Visa,Credit,53,"51-60","709 River Lane",Female,620,Sedang
+769,Visa,Debit (Prepaid),53,"51-60","1132 Hill Street",Female,644,Sedang
+770,Visa,Debit,35,"31-40","33 Second Boulevard",Male,706,Cukup Baik
+771,Visa,Credit,44,"41-50","919 Lafayette Drive",Male,765,Cukup Baik
+772,Visa,Credit,62,"61-70","24684 Ocean View Boulevard",Female,741,Cukup Baik
+773,Visa,Debit,67,"61-70","486 West Boulevard",Male,786,Cukup Baik
+774,Visa,Credit,46,"41-50","671 Essex Street",Male,588,Buruk
+775,Visa,Debit,37,"31-40","776 Norfolk Boulevard",Male,627,Sedang
+776,Visa,Debit,55,"51-60","905 West Avenue",Male,616,Sedang
+777,Visa,Debit,18,"10-20","970 Essex Drive",Male,700,Sedang
+778,Visa,Debit,60,"51-60","700 Lexington Avenue",Male,699,Sedang
+779,Visa,Credit,81,"81-90","44 Valley Boulevard",Female,755,Cukup Baik
+780,Visa,Debit,74,"71-80","41 Rose Lane",Male,652,Sedang
+781,Visa,Credit,30,"21-30","7154 Lafayette Drive",Male,602,Sedang
+782,Visa,Credit,51,"51-60","2554 11th Lane",Female,722,Cukup Baik
+783,Visa,Debit,62,"61-70","641 Martin Luther King Avenue",Male,693,Sedang
+784,Visa,Debit,44,"41-50","41043 Lincoln Lane",Male,688,Sedang
+785,Visa,Debit (Prepaid),18,"10-20","13 Main Boulevard",Male,740,Cukup Baik
+786,Visa,Credit,18,"10-20","4279 West Boulevard",Male,798,Cukup Baik
+787,Visa,Credit,19,"10-20","762 Lake Drive",Female,767,Cukup Baik
+788,Visa,Debit,19,"10-20","534 Norfolk Lane",Female,802,Cukup Baik
+789,Visa,Credit,43,"41-50","429 Grant Boulevard",Female,690,Sedang
+790,Visa,Debit,34,"31-40","480 Ocean View Boulevard",Female,743,Cukup Baik
+791,Visa,Credit,78,"71-80","939 Mill Street",Female,645,Sedang
+792,Visa,Debit,28,"21-30","5863 Grant Avenue",Female,698,Sedang
+793,Visa,Debit,73,"71-80","658 Plum Avenue",Female,703,Cukup Baik
+794,Visa,Debit,49,"41-50","803 Plum Avenue",Female,730,Cukup Baik
+795,Visa,Credit,40,"31-40","73 Oak Street",Female,759,Cukup Baik
+796,Visa,Credit,25,"21-30","8199 Norfolk Avenue",Female,746,Cukup Baik
+797,Visa,Debit,61,"61-70","7945 Fourth Avenue",Female,651,Sedang
+798,Visa,Debit,50,"41-50","9982 Summit Boulevard",Female,715,Cukup Baik
+799,Visa,Debit (Prepaid),34,"31-40","90 El Camino Avenue",Female,686,Sedang
+800,Visa,Credit,28,"21-30","6413 Second Street",Female,723,Cukup Baik
+801,Visa,Debit,82,"81-90","2303 12th Lane",Female,723,Cukup Baik
+802,Visa,Debit,35,"31-40","3369 Wessex Avenue",Female,752,Cukup Baik
+803,Visa,Debit,69,"61-70","55 El Camino Boulevard",Female,635,Sedang
+804,Visa,Debit,64,"61-70","37 River Boulevard",Male,812,Cukup Baik
+805,Visa,Credit,19,"10-20","5709 Little Creek Lane",Female,686,Sedang
+806,Visa,Debit,24,"21-30","8251 Park Lane",Female,686,Sedang
+807,Visa,Debit,52,"51-60","869 Little Creek Lane",Female,691,Sedang
+808,Visa,Debit,38,"31-40","1583 Grant Lane",Female,683,Sedang
+809,Visa,Credit,54,"51-60","2855 Sixth Avenue",Female,618,Sedang
+810,Visa,Credit,77,"71-80","239 West Drive",Female,705,Cukup Baik
+811,Visa,Credit,91,"91+","5492 Maple Drive",Female,741,Cukup Baik
+812,Visa,Debit,41,"41-50","6946 Park Drive",Female,659,Sedang
+813,Visa,Credit,46,"41-50","285 Washington Street",Male,585,Buruk
+814,Visa,Debit,72,"71-80","9380 Hill Drive",Male,748,Cukup Baik
+815,Visa,Debit,19,"10-20","57285 Jefferson Avenue",Male,756,Cukup Baik
+816,Visa,Debit,56,"51-60","8943 11th Drive",Male,759,Cukup Baik
+817,Visa,Credit,26,"21-30","91 Lake Street",Male,803,Cukup Baik
+818,Visa,Debit,54,"51-60","2571 Plum Avenue",Female,770,Cukup Baik
+819,Visa,Credit,55,"51-60","4909 Maple Avenue",Female,687,Sedang
+820,Visa,Credit,70,"61-70","669 South Street",Female,633,Sedang
+821,Visa,Debit,73,"71-80","833 Elm Lane",Male,645,Sedang
+822,Visa,Credit,51,"51-60","6323 Sussex Boulevard",Female,793,Cukup Baik
+823,Visa,Debit,41,"41-50","858 Jefferson Avenue",Female,807,Cukup Baik
+824,Visa,Credit,32,"31-40","38 Catherine Boulevard",Female,695,Sedang
+825,Visa,Debit,53,"51-60","462 Rose Lane",Female,787,Cukup Baik
+826,Visa,Debit,67,"61-70","563 Birch Drive",Female,684,Sedang
+827,Visa,Credit,61,"61-70","9189 Valley Street",Female,616,Sedang
+828,Visa,Debit,59,"51-60","85 Littlewood Avenue",Female,659,Sedang
+829,Visa,Credit,29,"21-30","587 East Lane",Female,726,Cukup Baik
+830,Visa,Debit,29,"21-30","412 First Boulevard",Female,688,Sedang
+831,Visa,Debit,36,"31-40","547 Norfolk Boulevard",Male,726,Cukup Baik
+832,Visa,Credit,40,"31-40","8799 Elm Avenue",Female,625,Sedang
+833,Visa,Credit,21,"21-30","1425 Fifth Street",Female,683,Sedang
+834,Visa,Debit,19,"10-20","723 Summit Drive",Male,746,Cukup Baik
+835,Visa,Debit,32,"31-40","549 Rose Drive",Male,681,Sedang
+836,Visa,Debit,18,"10-20","822 Ocean View Lane",Male,689,Sedang
+837,Visa,Debit,30,"21-30","445 Fifth Avenue",Male,679,Sedang
+838,Visa,Credit,26,"21-30","349 First Drive",Male,763,Cukup Baik
+839,Visa,Credit,45,"41-50","96493 Valley Stream Avenue",Female,622,Sedang
+840,Visa,Credit,68,"61-70","651 Fourth Avenue",Female,694,Sedang
+841,Visa,Debit (Prepaid),22,"21-30","2429 Eighth Avenue",Male,753,Cukup Baik
+842,Visa,Credit,61,"61-70","945 Third Avenue",Male,564,Buruk
+843,Visa,Credit,35,"31-40","4238 Lexington Lane",Male,822,Cukup Baik
+844,Visa,Debit (Prepaid),65,"61-70","364 Eighth Drive",Male,738,Cukup Baik
+845,Visa,Debit,58,"51-60","860 Seventh Avenue",Male,786,Cukup Baik
+846,Visa,Debit,48,"41-50","58 Catherine Drive",Female,745,Cukup Baik
+847,Visa,Debit,81,"81-90","864 Main Lane",Female,591,Buruk
+848,Visa,Credit,51,"51-60","166 River Drive",Male,711,Cukup Baik
+849,Visa,Debit,67,"61-70","5456 Ninth Avenue",Female,711,Cukup Baik
+850,Visa,Debit,38,"31-40","422 Burns Street",Female,712,Cukup Baik
+851,Visa,Credit,88,"81-90","42 Fourth Avenue",Female,757,Cukup Baik
+852,Visa,Debit,35,"31-40","955 11th Street",Female,738,Cukup Baik
+853,Visa,Debit (Prepaid),29,"21-30","225 Lake Boulevard",Female,723,Cukup Baik
+854,Visa,Debit,26,"21-30","3716 North Boulevard",Female,688,Sedang
+855,Visa,Credit,51,"51-60","1047 Seventh Street",Male,699,Sedang
+856,Visa,Debit,54,"51-60","275 Tenth Street",Male,748,Cukup Baik
+857,Visa,Credit,90,"81-90","3019 Elm Drive",Male,615,Sedang
+858,Visa,Credit,47,"41-50","335 Valley Stream Boulevard",Male,700,Sedang
+859,Visa,Debit,51,"51-60","865 Wessex Lane",Male,631,Sedang
+860,Visa,Debit,55,"51-60","7035 River Boulevard",Male,692,Sedang
+861,Visa,Debit,22,"21-30","919 First Street",Female,793,Cukup Baik
+862,Visa,Debit,25,"21-30","8482 Elm Lane",Female,807,Cukup Baik
+863,Visa,Credit,60,"51-60","256 Ocean Drive",Female,774,Cukup Baik
+864,Visa,Debit,56,"51-60","7532 Park Boulevard",Female,766,Cukup Baik
+865,Visa,Debit (Prepaid),41,"41-50","9684 Grant Drive",Male,693,Sedang
+866,Visa,Debit,34,"31-40","4591 Third Drive",Male,639,Sedang
+867,Visa,Debit,26,"21-30","381 Sussex Avenue",Male,614,Sedang
+868,Visa,Credit,78,"71-80","5004 Lake Street",Male,706,Cukup Baik
+869,Visa,Debit,73,"71-80","9355 Ocean View Drive",Male,745,Cukup Baik
+870,Visa,Debit,63,"61-70","1389 Park Lane",Female,821,Cukup Baik
+871,Visa,Debit,86,"81-90","81 Hill Avenue",Female,690,Sedang
+872,Visa,Debit,61,"61-70","96 Lake Lane",Female,655,Sedang
+873,Visa,Debit (Prepaid),52,"51-60","65 Fifth Boulevard",Female,710,Cukup Baik
+874,Visa,Credit,24,"21-30","4973 Martin Luther King Lane",Male,798,Cukup Baik
+875,Visa,Credit,39,"31-40","5944 Grant Avenue",Male,728,Cukup Baik
+876,Visa,Debit,65,"61-70","3216 Ninth Drive",Male,600,Buruk
+877,Visa,Debit,36,"31-40","801 Mill Boulevard",Female,610,Sedang
+878,Visa,Credit,45,"41-50","13 Lake Drive",Male,615,Sedang
+879,Visa,Debit,54,"51-60","938 Forest Street",Male,702,Cukup Baik
+880,Visa,Debit,28,"21-30","231 Littlewood Avenue",Male,685,Sedang
+881,Visa,Debit,61,"61-70","4155 Spruce Avenue",Female,696,Sedang
+882,Visa,Debit (Prepaid),63,"61-70","7605 Essex Boulevard",Male,612,Sedang
+883,Visa,Debit,33,"31-40","6174 East Street",Male,584,Buruk
+884,Visa,Credit,75,"71-80","3095 Eighth Drive",Male,631,Sedang
+885,Visa,Debit,36,"31-40","7121 Fourth Avenue",Male,700,Sedang
+886,Visa,Debit,20,"10-20","189 Ninth Lane",Male,726,Cukup Baik
+887,Visa,Debit (Prepaid),55,"51-60","3999 West Lane",Male,816,Cukup Baik
+888,Visa,Debit,53,"51-60","817 Forest Street",Male,698,Sedang
+889,Visa,Debit,27,"21-30","900 Norfolk Avenue",Male,710,Cukup Baik
+890,Visa,Debit (Prepaid),37,"31-40","911 Ocean Boulevard",Female,727,Cukup Baik
+891,Visa,Debit,38,"31-40","177 Maple Boulevard",Female,746,Cukup Baik
+892,Visa,Debit,38,"31-40","4260 Essex Lane",Female,656,Sedang
+893,Visa,Credit,18,"10-20","4485 Plum Lane",Male,850,Cukup Baik
+894,Visa,Debit,41,"41-50","1071 Lafayette Street",Female,597,Buruk
+895,Visa,Credit,46,"41-50","9503 South Street",Female,832,Cukup Baik
+896,Visa,Debit,27,"21-30","327 Seventh Boulevard",Female,626,Sedang
+897,Visa,Debit,30,"21-30","847 Martin Luther King Lane",Female,501,Buruk
+898,Visa,Debit (Prepaid),90,"81-90","145 River Drive",Female,566,Buruk
+899,Visa,Credit,29,"21-30","5544 Grant Avenue",Female,629,Sedang
+900,Visa,Debit,36,"31-40","977 Littlewood Avenue",Male,735,Cukup Baik
+901,Visa,Debit,48,"41-50","96 11th Street",Male,850,Cukup Baik
+902,Visa,Credit,31,"31-40","5157 Seventh Drive",Male,635,Sedang
+903,Visa,Debit,25,"21-30","2484 Essex Avenue",Male,717,Cukup Baik
+904,Visa,Debit,32,"31-40","41 Plum Boulevard",Male,759,Cukup Baik
+905,Visa,Credit,69,"61-70","385 Maple Street",Male,701,Cukup Baik
+906,Visa,Credit,75,"71-80","6930 East Lane",Male,705,Cukup Baik
+907,Visa,Debit,32,"31-40","2426 Littlewood Avenue",Male,686,Sedang
+908,Visa,Debit (Prepaid),62,"61-70","3776 Bayview Lane",Male,650,Sedang
+909,Visa,Debit,38,"31-40","215 Ocean View Drive",Male,583,Buruk
+910,Visa,Debit,31,"31-40","35 Rose Boulevard",Male,819,Cukup Baik
+911,Visa,Debit,18,"10-20","69524 Valley Lane",Male,757,Cukup Baik
+912,Visa,Credit,46,"41-50","1833 George Drive",Male,755,Cukup Baik
+913,Visa,Debit (Prepaid),56,"51-60","4943 Martin Luther King Lane",Male,693,Sedang
+914,Visa,Debit,38,"31-40","10 Norfolk Boulevard",Male,763,Cukup Baik
+915,Visa,Debit,44,"41-50","936 Mill Street",Male,728,Cukup Baik
+916,Visa,Credit,21,"21-30","125 First Avenue",Male,682,Sedang
+917,Visa,Debit,58,"51-60","735 Forest Avenue",Male,678,Sedang
+918,Visa,Debit,43,"41-50","5528 Lake Lane",Female,703,Cukup Baik
+919,Visa,Credit,54,"51-60","1635 Sussex Lane",Female,698,Sedang
+920,Visa,Credit,41,"41-50","37 Sixth Lane",Female,700,Sedang
+921,Visa,Debit,74,"71-80","960 Mill Lane",Male,779,Cukup Baik
+922,Visa,Credit,18,"10-20","5819 Norfolk Drive",Male,647,Sedang
+923,Visa,Credit,18,"10-20","38 Fifth Street",Female,735,Cukup Baik
+924,Visa,Credit,48,"41-50","6126 Ocean View Boulevard",Female,645,Sedang
+925,Visa,Debit,31,"31-40","4165 Valley Avenue",Male,610,Sedang
+926,Visa,Credit,20,"10-20","88 George Street",Female,776,Cukup Baik
+927,Visa,Credit,37,"31-40","13 Federal Street",Male,729,Cukup Baik
+928,Visa,Credit,59,"51-60","26 Martin Luther King Drive",Female,784,Cukup Baik
+929,Visa,Credit,63,"61-70","899 Grant Lane",Female,850,Cukup Baik
+930,Visa,Debit,22,"21-30","5274 Martin Luther King Lane",Male,691,Sedang
+931,Visa,Debit,34,"31-40","2707 Main Boulevard",Male,540,Buruk
+932,Visa,Debit,67,"61-70","295 West Avenue",Male,811,Cukup Baik
+933,Visa,Debit (Prepaid),50,"41-50","7037 Wessex Avenue",Male,690,Sedang
+934,Visa,Debit,32,"31-40","2017 Ninth Drive",Female,762,Cukup Baik
+935,Visa,Debit,18,"10-20","197 George Drive",Female,728,Cukup Baik
+936,Visa,Credit,18,"10-20","255 Bayview Street",Female,718,Cukup Baik
+937,Visa,Debit,47,"41-50","430 Sixth Avenue",Female,603,Sedang
+938,Visa,Credit,28,"21-30","875 Plum Street",Female,720,Cukup Baik
+939,Visa,Debit,80,"71-80","4259 East Lane",Female,696,Sedang
+940,Visa,Credit,49,"41-50","620 12th Avenue",Female,699,Sedang
+941,Visa,Debit,56,"51-60","3248 Hill Drive",Female,713,Cukup Baik
+942,Visa,Credit,37,"31-40","3914 Mill Street",Male,742,Cukup Baik
+943,Visa,Debit (Prepaid),64,"61-70","66 Grant Lane",Male,773,Cukup Baik
+944,Visa,Credit,58,"51-60","3817 Martin Luther King Avenue",Male,789,Cukup Baik
+945,Visa,Debit,19,"10-20","751 Birch Avenue",Male,705,Cukup Baik
+946,Visa,Debit,48,"41-50","2981 Ninth Boulevard",Male,781,Cukup Baik
+947,Visa,Credit,63,"61-70","4117 Fifth Avenue",Male,710,Cukup Baik
+948,Visa,Debit,53,"51-60","1540 El Camino Avenue",Female,718,Cukup Baik
+949,Visa,Debit,29,"21-30","6595 Ocean Drive",Female,709,Cukup Baik
+950,Visa,Debit (Prepaid),23,"21-30","9264 Norfolk Lane",Female,629,Sedang
+951,Visa,Credit,57,"51-60","381 Catherine Avenue",Female,709,Cukup Baik
+952,Visa,Credit,29,"21-30","7135 Ninth Lane",Male,685,Sedang
+953,Visa,Debit,18,"10-20","993 Mountain View Avenue",Male,664,Sedang
+954,Visa,Debit,51,"51-60","691 Ocean View Street",Male,772,Cukup Baik
+955,Visa,Debit (Prepaid),33,"31-40","6785 Valley Stream Boulevard",Male,798,Cukup Baik
+956,Visa,Debit,30,"21-30","714 North Drive",Female,804,Cukup Baik
+957,Visa,Debit,73,"71-80","862 Martin Luther King Drive",Female,605,Sedang
+958,Amex,Credit,18,"10-20","141 Sixth Boulevard",Female,705,Cukup Baik
+959,Mastercard,Debit,35,"31-40","5223 Lafayette Drive",Female,738,Cukup Baik
+960,Visa,Debit,29,"21-30","506 Washington Lane",Male,750,Cukup Baik
+961,Amex,Credit,76,"71-80","3031 Essex Street",Male,721,Cukup Baik
+962,Mastercard,Debit,28,"21-30","564 Catherine Lane",Male,846,Cukup Baik
+963,Visa,Debit,24,"21-30","8094 Catherine Lane",Female,687,Sedang
+964,Visa,Debit,48,"41-50","33 North Avenue",Female,689,Sedang
+965,Mastercard,Debit,18,"10-20","2108 Spruce Lane",Female,713,Cukup Baik
+966,Mastercard,Debit,26,"21-30","445 Fourth Lane",Female,630,Sedang
+967,Mastercard,Debit,41,"41-50","9413 12th Boulevard",Female,699,Sedang
+968,Mastercard,Debit,21,"21-30","89 Oak Lane",Female,722,Cukup Baik
+969,Mastercard,Debit,24,"21-30","18360 Valley Avenue",Female,666,Sedang
+970,Mastercard,Debit,42,"41-50","1942 Rose Avenue",Male,770,Cukup Baik
+971,Visa,Credit,20,"10-20","711 Tenth Street",Female,732,Cukup Baik
+972,Visa,Debit,35,"31-40","215 Plum Boulevard",Male,681,Sedang
+973,Visa,Debit,55,"51-60","1587 Rose Lane",Male,734,Cukup Baik
+974,Mastercard,Debit (Prepaid),59,"51-60","948 Federal Drive",Male,644,Sedang
+975,Mastercard,Debit,28,"21-30","34542 Ninth Drive",Female,675,Sedang
+976,Mastercard,Debit,67,"61-70","198 Lincoln Street",Female,760,Cukup Baik
+977,Mastercard,Debit,83,"81-90","237 Hill Boulevard",Female,710,Cukup Baik
+978,Mastercard,Debit,21,"21-30","288 North Avenue",Female,760,Cukup Baik
+979,Mastercard,Debit,59,"51-60","621 Rose Avenue",Male,693,Sedang
+980,Mastercard,Debit,84,"81-90","463 12th Street",Male,733,Cukup Baik
+981,Mastercard,Debit,44,"41-50","4169 Fourth Lane",Male,671,Sedang
+982,Visa,Credit,46,"41-50","9232 Mill Drive",Male,729,Cukup Baik
+983,Visa,Debit (Prepaid),77,"71-80","8407 Forest Drive",Male,827,Cukup Baik
+984,Visa,Credit,63,"61-70","642 Ocean View Lane",Female,850,Cukup Baik
+985,Amex,Credit,32,"31-40","7276 Fourth Drive",Male,600,Buruk
+986,Discover,Credit,32,"31-40","6577 Lexington Lane",Male,703,Cukup Baik
+987,Mastercard,Debit (Prepaid),52,"51-60","6785 Essex Lane",Male,683,Sedang
+988,Mastercard,Credit,68,"61-70","344 Washington Drive",Male,785,Cukup Baik
+989,Mastercard,Debit,78,"71-80","6283 Rose Avenue",Male,727,Cukup Baik
+990,Mastercard,Debit (Prepaid),91,"91+","365 Mountain View Boulevard",Female,737,Cukup Baik
+991,Mastercard,Debit,52,"51-60","3740 Ocean Lane",Male,554,Buruk
+992,Mastercard,Debit,46,"41-50","574 Norfolk Street",Male,700,Sedang
+993,Visa,Debit,47,"41-50","5647 Burns Boulevard",Female,638,Sedang
+994,Visa,Debit,85,"81-90","577 12th Lane",Female,771,Cukup Baik
+995,Mastercard,Credit,40,"31-40","1752 Martin Luther King Avenue",Female,592,Buruk
+996,Mastercard,Debit,63,"61-70","2302 Catherine Lane",Female,738,Cukup Baik
+997,Mastercard,Debit,57,"51-60","339 Little Creek Lane",Female,675,Sedang
+998,Mastercard,Debit (Prepaid),18,"10-20","62 East Boulevard",Male,703,Cukup Baik
+999,Mastercard,Debit (Prepaid),19,"10-20","2481 Hillside Street",Female,703,Cukup Baik
+1000,Mastercard,Debit,20,"10-20","6030 Third Lane",Female,687,Sedang
+1001,Mastercard,Credit,20,"10-20","6223 Maple Lane",Male,716,Cukup Baik
+1002,Mastercard,Debit,31,"31-40","8446 Catherine Drive",Male,716,Cukup Baik
+1003,Mastercard,Debit,51,"51-60","2003 Ninth Avenue",Male,632,Sedang
+1004,Mastercard,Debit,59,"51-60","868 Maple Drive",Male,705,Cukup Baik
+1005,Visa,Debit,21,"21-30","78596 Birch Drive",Male,685,Sedang
+1006,Visa,Credit,37,"31-40","7559 Forest Boulevard",Male,761,Cukup Baik
+1007,Visa,Debit (Prepaid),66,"61-70","259 Valley Boulevard",Male,618,Sedang
+1008,Visa,Credit,52,"51-60","38688 First Avenue",Female,657,Sedang
+1009,Amex,Credit,41,"41-50","9059 Eighth Avenue",Female,702,Cukup Baik
+1010,Amex,Credit,40,"31-40","5899 Mill Street",Female,548,Buruk
+1011,Discover,Credit,27,"21-30","2058 Spruce Street",Female,676,Sedang
+1012,Mastercard,Credit,35,"31-40","9006 Ocean Boulevard",Female,693,Sedang
+1013,Mastercard,Debit,25,"21-30","834 Elm Avenue",Female,711,Cukup Baik
+1014,Mastercard,Debit,54,"51-60","393 Mountain View Lane",Female,729,Cukup Baik
+1015,Mastercard,Debit (Prepaid),33,"31-40","9761 East Street",Female,838,Cukup Baik
+1016,Mastercard,Debit,41,"41-50","165 Fourth Street",Female,719,Cukup Baik
+1017,Mastercard,Debit,24,"21-30","7043 Ocean Avenue",Male,560,Buruk
+1018,Mastercard,Credit,90,"81-90","350 Main Boulevard",Female,755,Cukup Baik
+1019,Mastercard,Debit,81,"81-90","482 Grant Street",Female,713,Cukup Baik
+1020,Mastercard,Debit,29,"21-30","331 Essex Drive",Female,796,Cukup Baik
+1021,Mastercard,Debit,21,"21-30","218 East Street",Female,751,Cukup Baik
+1022,Mastercard,Debit,47,"41-50","27 Summit Street",Female,635,Sedang
+1023,Mastercard,Debit,49,"41-50","990 Burns Boulevard",Female,679,Sedang
+1024,Visa,Credit,66,"61-70","554 Grant Boulevard",Male,739,Cukup Baik
+1025,Visa,Debit,19,"10-20","122 11th Drive",Male,664,Sedang
+1026,Visa,Debit,84,"81-90","2116 Second Drive",Male,714,Cukup Baik
+1027,Visa,Debit,53,"51-60","809 Mountain View Boulevard",Male,693,Sedang
+1028,Discover,Credit,50,"41-50","1012 Hill Drive",Male,682,Sedang
+1029,Mastercard,Debit,66,"61-70","9218 Martin Luther King Avenue",Male,676,Sedang
+1030,Mastercard,Debit,44,"41-50","168 Mill Drive",Male,705,Cukup Baik
+1031,Mastercard,Debit,61,"61-70","6762 Second Street",Male,689,Sedang
+1032,Mastercard,Debit,62,"61-70","171 Catherine Lane",Female,673,Sedang
+1033,Mastercard,Debit,18,"10-20","352 George Street",Female,684,Sedang
+1034,Mastercard,Debit,58,"51-60","427 Essex Lane",Female,698,Sedang
+1035,Mastercard,Debit,22,"21-30","3132 Lake Avenue",Male,701,Cukup Baik
+1036,Mastercard,Debit,19,"10-20","5966 Hill Boulevard",Male,722,Cukup Baik
+1037,Mastercard,Debit,38,"31-40","889 Forest Lane",Male,653,Sedang
+1038,Visa,Credit,33,"31-40","19 Valley Stream Drive",Female,810,Cukup Baik
+1039,Visa,Debit,68,"61-70","29 Federal Boulevard",Male,536,Buruk
+1040,Visa,Credit,28,"21-30","207 Washington Lane",Female,689,Sedang
+1041,Visa,Credit,48,"41-50","6144 Summit Street",Female,639,Sedang
+1042,Visa,Debit,22,"21-30","6179 Eighth Boulevard",Female,766,Cukup Baik
+1043,Visa,Credit,21,"21-30","95 Burns Drive",Female,660,Sedang
+1044,Visa,Credit,30,"21-30","978 Wessex Avenue",Male,693,Sedang
+1045,Visa,Debit,27,"21-30","5222 Valley Stream Avenue",Male,757,Cukup Baik
+1046,Visa,Debit,44,"41-50","9414 Summit Boulevard",Male,547,Buruk
+1047,Mastercard,Debit (Prepaid),26,"21-30","225 Ocean View Avenue",Male,689,Sedang
+1048,Mastercard,Debit,59,"51-60","265 Ocean Drive",Female,779,Cukup Baik
+1049,Mastercard,Debit,66,"61-70","289 Ocean View Avenue",Female,850,Cukup Baik
+1050,Mastercard,Credit,43,"41-50","41332 Lincoln Avenue",Female,670,Sedang
+1051,Mastercard,Debit,32,"31-40","13 Norfolk Avenue",Female,694,Sedang
+1052,Mastercard,Debit,61,"61-70","363 Third Drive",Male,655,Sedang
+1053,Mastercard,Debit,59,"51-60","756 El Camino Avenue",Male,636,Sedang
+1054,Mastercard,Debit,50,"41-50","9190 Sussex Lane",Male,639,Sedang
+1055,Mastercard,Debit (Prepaid),37,"31-40","3472 11th Avenue",Male,594,Buruk
+1056,Mastercard,Debit,24,"21-30","215 Elm Lane",Female,703,Cukup Baik
+1057,Mastercard,Credit,39,"31-40","135 Littlewood Avenue",Female,787,Cukup Baik
+1058,Mastercard,Debit,61,"61-70","5363 Tenth Lane",Male,684,Sedang
+1059,Mastercard,Debit,50,"41-50","9762 Pine Street",Male,644,Sedang
+1060,Visa,Credit,76,"71-80","359 Valley Street",Male,785,Cukup Baik
+1061,Visa,Debit,25,"21-30","8931 Norfolk Drive",Male,739,Cukup Baik
+1062,Visa,Credit,58,"51-60","55 Fourth Drive",Male,708,Cukup Baik
+1063,Visa,Credit,64,"61-70","690 Jefferson Lane",Male,716,Cukup Baik
+1064,Visa,Debit,50,"41-50","477 Madison Lane",Female,654,Sedang
+1065,Visa,Credit,41,"41-50","6157 Washington Drive",Female,792,Cukup Baik
+1066,Visa,Credit,46,"41-50","9846 Second Lane",Female,727,Cukup Baik
+1067,Visa,Credit,76,"71-80","343 Lafayette Drive",Male,719,Cukup Baik
+1068,Visa,Debit,21,"21-30","3900 Rose Street",Male,730,Cukup Baik
+1069,Visa,Credit,54,"51-60","3683 Fifth Street",Male,615,Sedang
+1070,Visa,Debit,61,"61-70","841 Wessex Boulevard",Male,745,Cukup Baik
+1071,Visa,Credit,26,"21-30","4693 Essex Street",Male,838,Cukup Baik
+1072,Visa,Credit,48,"41-50","940 First Drive",Female,648,Sedang
+1073,Visa,Debit,43,"41-50","967 First Avenue",Female,770,Cukup Baik
+1074,Visa,Credit,62,"61-70","1305 Spruce Boulevard",Female,826,Cukup Baik
+1075,Visa,Debit,36,"31-40","5695 Fifth Street",Female,672,Sedang
+1076,Visa,Debit,61,"61-70","3987 11th Drive",Female,779,Cukup Baik
+1077,Amex,Credit,57,"51-60","886 Plum Boulevard",Female,576,Buruk
+1078,Discover,Credit,56,"51-60","291 Seventh Drive",Female,589,Buruk
+1079,Mastercard,Debit,65,"61-70","422 Madison Lane",Female,831,Cukup Baik
+1080,Mastercard,Debit,56,"51-60","4581 Eighth Boulevard",Female,703,Cukup Baik
+1081,Mastercard,Debit,31,"31-40","9633 Mill Lane",Female,617,Sedang
+1082,Mastercard,Credit,34,"31-40","316 Valley Stream Avenue",Female,622,Sedang
+1083,Mastercard,Debit,44,"41-50","45682 Washington Lane",Female,756,Cukup Baik
+1084,Mastercard,Credit,36,"31-40","152 West Drive",Male,775,Cukup Baik
+1085,Mastercard,Debit,27,"21-30","563 Jefferson Boulevard",Female,838,Cukup Baik
+1086,Mastercard,Debit,57,"51-60","442 Burns Boulevard",Female,698,Sedang
+1087,Mastercard,Debit,40,"31-40","613 George Boulevard",Female,722,Cukup Baik
+1088,Mastercard,Debit (Prepaid),49,"41-50","8893 Littlewood Lane",Female,765,Cukup Baik
+1089,Mastercard,Debit,31,"31-40","2725 Jefferson Drive",Female,729,Cukup Baik
+1090,Mastercard,Debit,59,"51-60","102 Burns Boulevard",Female,850,Cukup Baik
+1091,Mastercard,Debit,32,"31-40","52292 East Street",Female,656,Sedang
+1092,Mastercard,Debit,54,"51-60","703 12th Street",Male,720,Cukup Baik
+1093,Mastercard,Debit,18,"10-20","76 Grant Lane",Male,667,Sedang
+1094,Mastercard,Debit,34,"31-40","74786 Jefferson Drive",Male,712,Cukup Baik
+1095,Visa,Debit,72,"71-80","493 South Street",Male,750,Cukup Baik
+1096,Visa,Debit,59,"51-60","1089 Norfolk Avenue",Male,681,Sedang
+1097,Visa,Credit,39,"31-40","952 Mountain View Boulevard",Male,732,Cukup Baik
+1098,Visa,Debit,50,"41-50","772 Fifth Boulevard",Male,752,Cukup Baik
+1099,Visa,Credit,22,"21-30","4932 South Boulevard",Male,763,Cukup Baik
+1100,Visa,Debit,61,"61-70","9888 Washington Boulevard",Male,573,Buruk
+1101,Amex,Credit,25,"21-30","142 Rose Drive",Female,751,Cukup Baik
+1102,Amex,Credit,49,"41-50","836 Bayview Avenue",Female,707,Cukup Baik
+1103,Amex,Credit,45,"41-50","31 Jefferson Boulevard",Female,746,Cukup Baik
+1104,Discover,Credit,91,"91+","120 Lafayette Boulevard",Male,850,Cukup Baik
+1105,Discover,Credit,77,"71-80","766 Mountain View Drive",Male,670,Sedang
+1106,Mastercard,Debit (Prepaid),62,"61-70","1563 Summit Boulevard",Female,699,Sedang
+1107,Mastercard,Credit,71,"71-80","836 Summit Boulevard",Female,698,Sedang
+1108,Mastercard,Credit,19,"10-20","32 First Lane",Male,685,Sedang
+1109,Mastercard,Credit,24,"21-30","8245 El Camino Lane",Male,639,Sedang
+1110,Mastercard,Debit (Prepaid),21,"21-30","472 Ocean View Street",Female,673,Sedang
+1111,Mastercard,Debit,20,"10-20","7132 Rose Avenue",Female,742,Cukup Baik
+1112,Mastercard,Debit (Prepaid),34,"31-40","5411 Madison Avenue",Female,760,Cukup Baik
+1113,Mastercard,Debit (Prepaid),19,"10-20","700 Madison Lane",Female,738,Cukup Baik
+1114,Mastercard,Debit,44,"41-50","9900 Ninth Avenue",Male,685,Sedang
+1115,Mastercard,Debit (Prepaid),53,"51-60","94 Jefferson Drive",Male,693,Sedang
+1116,Mastercard,Debit (Prepaid),81,"81-90","11 Spruce Avenue",Female,755,Cukup Baik
+1117,Mastercard,Debit,49,"41-50","2350 Bayview Street",Female,687,Sedang
+1118,Mastercard,Debit,25,"21-30","166 Littlewood Lane",Female,714,Cukup Baik
+1119,Mastercard,Debit,23,"21-30","994 Second Lane",Female,763,Cukup Baik
+1120,Mastercard,Debit,44,"41-50","4868 Lake Lane",Female,737,Cukup Baik
+1121,Mastercard,Debit,44,"41-50","8476 Lincoln Street",Female,796,Cukup Baik
+1122,Visa,Credit,33,"31-40","776 Bayview Avenue",Female,785,Cukup Baik
+1123,Visa,Credit,44,"41-50","6882 Forest Drive",Male,710,Cukup Baik
+1124,Visa,Debit,45,"41-50","8385 Mill Boulevard",Male,841,Cukup Baik
+1125,Visa,Debit,25,"21-30","99791 12th Boulevard",Male,689,Sedang
+1126,Visa,Debit,18,"10-20","3578 Pine Lane",Male,710,Cukup Baik
+1127,Visa,Debit,59,"51-60","60396 Elm Street",Male,720,Cukup Baik
+1128,Visa,Debit,47,"41-50","208 Park Avenue",Male,680,Sedang
+1129,Visa,Debit,49,"41-50","2379 Forest Lane",Male,686,Sedang
+1130,Visa,Credit,50,"41-50","801 Mountain View Street",Female,680,Sedang
+1131,Visa,Debit,76,"71-80","2609 Plum Drive",Male,683,Sedang
+1132,Visa,Debit,18,"10-20","2668 Lafayette Avenue",Female,694,Sedang
+1133,Visa,Debit,30,"21-30","781 Federal Street",Female,684,Sedang
+1134,Amex,Credit,18,"10-20","7 11th Drive",Female,568,Buruk
+1135,Amex,Credit,89,"81-90","796 West Lane",Female,704,Cukup Baik
+1136,Amex,Credit,23,"21-30","1430 Elm Avenue",Male,723,Cukup Baik
+1137,Discover,Credit,52,"51-60","8824 Hillside Avenue",Male,669,Sedang
+1138,Discover,Credit,51,"51-60","5334 11th Avenue",Female,768,Cukup Baik
+1139,Mastercard,Credit,24,"21-30","418 Elm Street",Female,645,Sedang
+1140,Mastercard,Debit,44,"41-50","591 South Avenue",Male,703,Cukup Baik
+1141,Mastercard,Credit,66,"61-70","35 Essex Drive",Male,777,Cukup Baik
+1142,Mastercard,Debit,52,"51-60","544 Main Drive",Male,716,Cukup Baik
+1143,Mastercard,Credit,20,"10-20","72 Lexington Avenue",Female,606,Sedang
+1144,Mastercard,Debit,57,"51-60","545 Eighth Avenue",Female,773,Cukup Baik
+1145,Mastercard,Debit,43,"41-50","7512 South Boulevard",Female,747,Cukup Baik
+1146,Mastercard,Debit,22,"21-30","398 Park Boulevard",Female,714,Cukup Baik
+1147,Mastercard,Debit,80,"71-80","614 Spruce Avenue",Male,704,Cukup Baik
+1148,Mastercard,Debit,54,"51-60","377 Lake Lane",Male,687,Sedang
+1149,Mastercard,Debit,25,"21-30","972 Spruce Avenue",Male,661,Sedang
+1150,Mastercard,Debit,46,"41-50","5692 Jefferson Boulevard",Male,791,Cukup Baik
+1151,Mastercard,Debit,53,"51-60","353 South Boulevard",Male,788,Cukup Baik
+1152,Mastercard,Debit,43,"41-50","8061 Spruce Drive",Male,747,Cukup Baik
+1153,Mastercard,Debit (Prepaid),63,"61-70","690 Catherine Street",Male,774,Cukup Baik
+1154,Visa,Credit,73,"71-80","80773 Essex Avenue",Male,788,Cukup Baik
+1155,Visa,Credit,83,"81-90","387 Third Boulevard",Female,689,Sedang
+1156,Visa,Debit,56,"51-60","9603 South Lane",Female,752,Cukup Baik
+1157,Visa,Debit,33,"31-40","1884 Lake Avenue",Female,812,Cukup Baik
+1158,Visa,Debit,62,"61-70","1569 George Boulevard",Male,716,Cukup Baik
+1159,Visa,Debit,20,"10-20","5590 Bayview Avenue",Male,732,Cukup Baik
+1160,Visa,Debit,27,"21-30","238 Eighth Avenue",Male,688,Sedang
+1161,Visa,Debit,23,"21-30","306 First Drive",Male,823,Cukup Baik
+1162,Visa,Debit,22,"21-30","8974 West Lane",Female,705,Cukup Baik
+1163,Visa,Credit,45,"41-50","2270 Sixth Lane",Male,489,Tidak Baik
+1164,Amex,Credit,43,"41-50","9620 Valley Stream Drive",Male,675,Sedang
+1165,Discover,Credit,55,"51-60","446 Birch Drive",Female,797,Cukup Baik
+1166,Mastercard,Debit,44,"41-50","8659 El Camino Street",Female,682,Sedang
+1167,Mastercard,Debit (Prepaid),42,"41-50","606 Spruce Boulevard",Female,769,Cukup Baik
+1168,Mastercard,Debit,51,"51-60","207 Ocean View Street",Male,505,Buruk
+1169,Mastercard,Debit,51,"51-60","375 Hillside Drive",Female,726,Cukup Baik
+1170,Mastercard,Debit,40,"31-40","5191 Grant Drive",Female,694,Sedang
+1171,Mastercard,Debit,90,"81-90","73 Summit Street",Male,781,Cukup Baik
+1172,Mastercard,Debit (Prepaid),50,"41-50","5154 Sixth Avenue",Male,769,Cukup Baik
+1173,Mastercard,Debit,71,"71-80","3095 Hill Boulevard",Male,722,Cukup Baik
+1174,Mastercard,Debit,25,"21-30","944 Lexington Boulevard",Male,772,Cukup Baik
+1175,Mastercard,Debit,93,"91+","748 Martin Luther King Street",Male,770,Cukup Baik
+1176,Mastercard,Credit,39,"31-40","2411 Hillside Lane",Male,527,Buruk
+1177,Mastercard,Debit,36,"31-40","1644 Park Avenue",Female,695,Sedang
+1178,Mastercard,Debit,59,"51-60","2475 Little Creek Boulevard",Female,693,Sedang
+1179,Mastercard,Credit,50,"41-50","312 Burns Boulevard",Female,752,Cukup Baik
+1180,Mastercard,Debit,28,"21-30","18 Lake Avenue",Male,595,Buruk
+1181,Mastercard,Debit (Prepaid),61,"61-70","747 Rose Drive",Male,810,Cukup Baik
+1182,Mastercard,Debit,30,"21-30","7350 Fourth Lane",Male,658,Sedang
+1183,Mastercard,Debit,53,"51-60","852 Tenth Boulevard",Male,740,Cukup Baik
+1184,Mastercard,Debit,70,"61-70","20382 Park Drive",Male,798,Cukup Baik
+1185,Mastercard,Debit,29,"21-30","5493 Catherine Drive",Female,780,Cukup Baik
+1186,Mastercard,Debit,46,"41-50","12067 Federal Boulevard",Male,577,Buruk
+1187,Mastercard,Debit,55,"51-60","203 Valley Lane",Male,701,Cukup Baik
+1188,Mastercard,Debit (Prepaid),24,"21-30","66992 Second Street",Female,626,Sedang
+1189,Mastercard,Debit (Prepaid),63,"61-70","412 Spruce Boulevard",Female,693,Sedang
+1190,Visa,Credit,49,"41-50","4480 Essex Drive",Female,707,Cukup Baik
+1191,Visa,Debit,25,"21-30","299 Oak Boulevard",Female,711,Cukup Baik
+1192,Visa,Credit,44,"41-50","1450 Rose Drive",Female,768,Cukup Baik
+1193,Visa,Credit,90,"81-90","6245 River Lane",Female,717,Cukup Baik
+1194,Visa,Debit,49,"41-50","2248 Third Avenue",Male,782,Cukup Baik
+1195,Visa,Credit,75,"71-80","1222 First Drive",Male,801,Tidak Baik
+1196,Visa,Debit,60,"51-60","498 Elm Lane",Female,820,Cukup Baik
+1197,Visa,Debit,28,"21-30","146 Lafayette Drive",Female,722,Cukup Baik
+1198,Visa,Debit,82,"81-90","79 South Boulevard",Male,820,Cukup Baik
+1199,Visa,Debit,29,"21-30","704 Eighth Avenue",Male,720,Cukup Baik
+1200,Amex,Credit,64,"61-70","106 Littlewood Drive",Male,685,Sedang
+1201,Amex,Credit,60,"51-60","175 Valley Drive",Male,715,Cukup Baik
+1202,Amex,Credit,63,"61-70","881 Ocean View Street",Female,691,Sedang
+1203,Amex,Credit,36,"31-40","5867 East Street",Male,582,Buruk
+1204,Discover,Credit,42,"41-50","583 El Camino Boulevard",Male,743,Cukup Baik
+1205,Discover,Credit,22,"21-30","152 Sixth Avenue",Male,680,Sedang
+1206,Discover,Credit,34,"31-40","862 11th Drive",Female,727,Cukup Baik
+1207,Discover,Credit,41,"41-50","8425 East Lane",Male,664,Sedang
+1208,Discover,Credit,38,"31-40","9541 Ocean View Drive",Male,526,Buruk
+1209,Mastercard,Debit,45,"41-50","95 12th Drive",Female,699,Sedang
+1210,Mastercard,Debit,32,"31-40","6415 Sussex Lane",Male,703,Cukup Baik
+1211,Mastercard,Debit,66,"61-70","644 South Drive",Female,746,Cukup Baik
+1212,Mastercard,Debit,33,"31-40","3904 Martin Luther King Drive",Male,810,Cukup Baik
+1213,Mastercard,Debit,34,"31-40","860 George Avenue",Male,795,Cukup Baik
+1214,Mastercard,Debit,40,"31-40","83302 Valley Stream Lane",Male,711,Cukup Baik
+1215,Mastercard,Credit,53,"51-60","9458 Park Boulevard",Female,751,Cukup Baik
+1216,Mastercard,Debit,26,"21-30","9129 Lexington Lane",Female,601,Sedang
+1217,Mastercard,Debit,59,"51-60","584 Bayview Street",Female,785,Cukup Baik
+1218,Mastercard,Debit,20,"10-20","982 Plum Boulevard",Male,754,Cukup Baik
+1219,Mastercard,Debit,28,"21-30","9977 Oak Avenue",Female,688,Sedang
+1220,Mastercard,Debit,22,"21-30","655 Mountain View Lane",Female,641,Sedang
+1221,Mastercard,Debit,64,"61-70","6606 Jefferson Avenue",Female,850,Cukup Baik
+1222,Mastercard,Credit,42,"41-50","1957 Park Lane",Female,600,Buruk
+1223,Mastercard,Debit,53,"51-60","822 Ocean Street",Male,717,Cukup Baik
+1224,Mastercard,Debit,42,"41-50","763 Lexington Avenue",Male,751,Cukup Baik
+1225,Mastercard,Credit,54,"51-60","6831 Valley Boulevard",Male,850,Cukup Baik
+1226,Mastercard,Debit,42,"41-50","376 Fourth Drive",Male,714,Cukup Baik
+1227,Mastercard,Debit (Prepaid),65,"61-70","727 Eighth Lane",Female,804,Cukup Baik
+1228,Mastercard,Debit,54,"51-60","456 Sixth Boulevard",Male,726,Cukup Baik
+1229,Mastercard,Debit,50,"41-50","421 Essex Street",Male,713,Cukup Baik
+1230,Mastercard,Debit,18,"10-20","66 Birch Lane",Male,754,Cukup Baik
+1231,Mastercard,Debit (Prepaid),26,"21-30","613 Little Creek Lane",Female,842,Cukup Baik
+1232,Mastercard,Debit,18,"10-20","5504 Spruce Drive",Male,747,Cukup Baik
+1233,Mastercard,Debit (Prepaid),35,"31-40","315 Little Creek Lane",Male,697,Sedang
+1234,Mastercard,Debit (Prepaid),44,"41-50","7815 Hillside Avenue",Male,749,Cukup Baik
+1235,Mastercard,Debit,18,"10-20","283 Rose Lane",Male,813,Cukup Baik
+1236,Mastercard,Credit,72,"71-80","521 Main Lane",Female,730,Cukup Baik
+1237,Mastercard,Debit,46,"41-50","3276 Maple Street",Female,717,Cukup Baik
+1238,Visa,Debit (Prepaid),31,"31-40","95410 Pine Boulevard",Female,721,Cukup Baik
+1239,Visa,Debit,34,"31-40","5449 Lexington Drive",Female,811,Cukup Baik
+1240,Visa,Debit,56,"51-60","899 Maple Street",Female,693,Sedang
+1241,Visa,Credit,40,"31-40","159 Plum Avenue",Female,814,Cukup Baik
+1242,Visa,Debit,52,"51-60","549 Tenth Avenue",Female,641,Sedang
+1243,Visa,Debit,31,"31-40","9316 Hillside Lane",Female,705,Cukup Baik
+1244,Visa,Debit,43,"41-50","580 Fifth Boulevard",Female,637,Sedang
+1245,Visa,Credit,54,"51-60","780 Ocean Avenue",Female,802,Cukup Baik
+1246,Visa,Debit,49,"41-50","7499 Lake Boulevard",Female,713,Cukup Baik
+1247,Visa,Debit,69,"61-70","6466 Ninth Drive",Female,700,Sedang
+1248,Visa,Debit,51,"51-60","32299 Federal Street",Female,698,Sedang
+1249,Visa,Debit,18,"10-20","24 Lafayette Street",Female,721,Cukup Baik
+1250,Visa,Credit,85,"81-90","872 Lake Avenue",Female,746,Cukup Baik
+1251,Visa,Credit,29,"21-30","645 Tenth Boulevard",Female,750,Cukup Baik
+1252,Visa,Debit,23,"21-30","473 El Camino Street",Female,658,Sedang
+1253,Visa,Debit,32,"31-40","1782 South Boulevard",Female,768,Cukup Baik
+1254,Visa,Debit,61,"61-70","576 Jefferson Boulevard",Female,747,Cukup Baik
+1255,Visa,Debit,24,"21-30","9614 Ocean View Drive",Male,681,Sedang
+1256,Visa,Debit,37,"31-40","1723 North Lane",Male,728,Cukup Baik
+1257,Visa,Credit,55,"51-60","287 Pine Lane",Male,721,Cukup Baik
+1258,Visa,Credit,79,"71-80","265 Little Creek Street",Female,789,Cukup Baik
+1259,Visa,Debit (Prepaid),64,"61-70","729 Littlewood Avenue",Female,700,Sedang
+1260,Visa,Debit,28,"21-30","1963 Summit Lane",Male,712,Cukup Baik
+1261,Visa,Credit,58,"51-60","610 Oak Street",Male,527,Buruk
+1262,Visa,Debit,56,"51-60","5814 Ocean Street",Female,717,Cukup Baik
+1263,Visa,Credit,56,"51-60","212 Mountain View Lane",Female,600,Buruk
+1264,Visa,Credit,32,"31-40","635 East Drive",Female,815,Cukup Baik
+1265,Amex,Credit,18,"10-20","72 El Camino Boulevard",Female,748,Cukup Baik
+1266,Mastercard,Credit,35,"31-40","239 South Drive",Female,618,Sedang
+1267,Mastercard,Debit,81,"81-90","9574 Ocean Drive",Female,630,Sedang
+1268,Mastercard,Credit,47,"41-50","857 Catherine Avenue",Male,513,Buruk
+1269,Mastercard,Debit,56,"51-60","336 Rose Avenue",Male,676,Sedang
+1270,Mastercard,Debit,31,"31-40","8862 Ninth Avenue",Female,685,Sedang
+1271,Mastercard,Debit,34,"31-40","539 Maple Drive",Male,642,Sedang
+1272,Mastercard,Debit,27,"21-30","581 Seventh Drive",Male,779,Cukup Baik
+1273,Mastercard,Credit,21,"21-30","966 Sussex Boulevard",Male,762,Cukup Baik
+1274,Mastercard,Debit,49,"41-50","824 West Drive",Female,705,Cukup Baik
+1275,Mastercard,Debit,35,"31-40","1496 Rose Street",Female,611,Sedang
+1276,Mastercard,Debit,82,"81-90","7236 South Boulevard",Female,730,Cukup Baik
+1277,Mastercard,Credit,33,"31-40","97542 Hillside Lane",Male,692,Sedang
+1278,Visa,Debit,19,"10-20","1804 Madison Lane",Male,684,Sedang
+1279,Visa,Debit,78,"71-80","22 East Avenue",Male,509,Buruk
+1280,Visa,Credit,28,"21-30","7933 Plum Lane",Male,641,Sedang
+1281,Visa,Debit (Prepaid),92,"91+","34 Bayview Drive",Female,689,Sedang
+1282,Visa,Credit,34,"31-40","404 Main Lane",Female,695,Sedang
+1283,Visa,Debit (Prepaid),50,"41-50","720 Seventh Avenue",Male,591,Buruk
+1284,Visa,Debit,50,"41-50","8990 Plum Street",Female,765,Cukup Baik
+1285,Visa,Debit,68,"61-70","6723 Maple Street",Female,524,Buruk
+1286,Visa,Credit,53,"51-60","456 Lincoln Boulevard",Female,602,Sedang
+1287,Visa,Credit,32,"31-40","698 11th Lane",Female,545,Buruk
+1288,Visa,Debit,41,"41-50","14 Valley Drive",Female,634,Sedang
+1289,Visa,Debit (Prepaid),33,"31-40","27934 11th Street",Male,758,Cukup Baik
+1290,Visa,Debit,53,"51-60","6223 Lexington Drive",Male,669,Sedang
+1291,Visa,Debit,43,"41-50","582 Essex Street",Male,699,Sedang
+1292,Visa,Debit,20,"10-20","176 River Boulevard",Male,774,Cukup Baik
+1293,Visa,Credit,32,"31-40","219 Federal Street",Female,706,Cukup Baik
+1294,Visa,Debit,39,"31-40","2244 Mill Boulevard",Female,730,Cukup Baik
+1295,Visa,Credit,70,"61-70","888 Lincoln Street",Female,788,Cukup Baik
+1296,Amex,Credit,60,"51-60","2468 Spruce Drive",Female,788,Cukup Baik
+1297,Amex,Credit,58,"51-60","669 Wessex Lane",Male,703,Cukup Baik
+1298,Mastercard,Debit,32,"31-40","3535 West Drive",Female,729,Cukup Baik
+1299,Mastercard,Debit,40,"31-40","2578 Park Boulevard",Female,723,Cukup Baik
+1300,Mastercard,Credit,58,"51-60","4988 Ocean View Lane",Male,752,Cukup Baik
+1301,Mastercard,Debit,26,"21-30","9530 Washington Street",Female,728,Cukup Baik
+1302,Mastercard,Debit,62,"61-70","8323 Catherine Boulevard",Female,694,Sedang
+1303,Mastercard,Credit,66,"61-70","602 First Street",Male,684,Sedang
+1304,Mastercard,Debit,24,"21-30","229 River Avenue",Female,850,Cukup Baik
+1305,Mastercard,Credit,46,"41-50","2794 Seventh Drive",Female,784,Cukup Baik
+1306,Visa,Credit,46,"41-50","136 Tenth Boulevard",Female,706,Cukup Baik
+1307,Visa,Debit,52,"51-60","2332 Elm Lane",Female,646,Sedang
+1308,Visa,Debit,36,"31-40","28 Lexington Drive",Female,619,Sedang
+1309,Visa,Credit,87,"81-90","115 Bayview Lane",Female,531,Buruk
+1310,Visa,Credit,33,"31-40","4930 Birch Drive",Female,751,Cukup Baik
+1311,Visa,Credit,27,"21-30","79 Sixth Avenue",Male,729,Cukup Baik
+1312,Mastercard,Debit,31,"31-40","5190 Grant Street",Female,765,Cukup Baik
+1313,Mastercard,Debit,35,"31-40","9853 Sussex Street",Male,653,Sedang
+1314,Mastercard,Debit,43,"41-50","857 Jefferson Avenue",Male,723,Cukup Baik
+1315,Mastercard,Credit,57,"51-60","759 Madison Drive",Female,753,Cukup Baik
+1316,Mastercard,Debit,27,"21-30","711 Norfolk Drive",Female,693,Sedang
+1317,Mastercard,Debit,41,"41-50","26 Valley Stream Drive",Female,749,Cukup Baik
+1318,Mastercard,Credit,18,"10-20","521 Mountain View Lane",Female,778,Cukup Baik
+1319,Mastercard,Debit,19,"10-20","671 George Drive",Female,546,Buruk
+1320,Mastercard,Debit,28,"21-30","5225 Bayview Street",Female,604,Sedang
+1321,Mastercard,Debit,49,"41-50","981 Fifth Boulevard",Female,696,Sedang
+1322,Mastercard,Debit,35,"31-40","775 Essex Lane",Female,636,Sedang
+1323,Mastercard,Credit,36,"31-40","28 Second Boulevard",Female,719,Cukup Baik
+1324,Mastercard,Debit,45,"41-50","535 Hill Boulevard",Female,663,Sedang
+1325,Mastercard,Debit,23,"21-30","459 East Avenue",Female,745,Cukup Baik
+1326,Mastercard,Debit,52,"51-60","292 Maple Drive",Female,731,Cukup Baik
+1327,Visa,Debit,20,"10-20","3183 Burns Boulevard",Female,688,Sedang
+1328,Visa,Credit,28,"21-30","441 Rose Lane",Female,600,Buruk
+1329,Visa,Debit,24,"21-30","6768 Federal Avenue",Female,720,Cukup Baik
+1330,Visa,Credit,65,"61-70","35187 West Lane",Female,575,Buruk
+1331,Visa,Credit,49,"41-50","6661 Mill Lane",Female,718,Cukup Baik
+1332,Visa,Debit,63,"61-70","547 West Drive",Male,712,Cukup Baik
+1333,Visa,Debit,18,"10-20","38 Valley Stream Street",Male,741,Cukup Baik
+1334,Amex,Credit,38,"31-40","17 Tenth Avenue",Female,718,Cukup Baik
+1335,Amex,Credit,51,"51-60","29693 Bayview Drive",Female,836,Cukup Baik
+1336,Mastercard,Debit,18,"10-20","243 Forest Lane",Female,673,Sedang
+1337,Mastercard,Debit,26,"21-30","9249 Third Lane",Male,800,Cukup Baik
+1338,Mastercard,Debit,33,"31-40","12 12th Avenue",Male,765,Cukup Baik
+1339,Mastercard,Debit,25,"21-30","9181 Elm Avenue",Male,773,Cukup Baik
+1340,Mastercard,Debit,53,"51-60","815 Hillside Drive",Male,691,Sedang
+1341,Mastercard,Debit,87,"81-90","4713 First Boulevard",Male,686,Sedang
+1342,Mastercard,Debit,27,"21-30","883 Federal Street",Female,717,Cukup Baik
+1343,Mastercard,Debit,22,"21-30","777 Valley Stream Lane",Female,575,Buruk
+1344,Mastercard,Debit,61,"61-70","186 Forest Avenue",Male,736,Cukup Baik
+1345,Mastercard,Debit,83,"81-90","7978 Main Lane",Female,804,Cukup Baik
+1346,Mastercard,Credit,53,"51-60","696 Oak Boulevard",Female,655,Sedang
+1347,Mastercard,Debit,64,"61-70","893 Littlewood Lane",Female,590,Buruk
+1348,Visa,Credit,83,"81-90","873 Summit Street",Male,667,Sedang
+1349,Visa,Credit,48,"41-50","716 Lake Avenue",Female,799,Cukup Baik
+1350,Amex,Credit,22,"21-30","637 Main Avenue",Female,651,Sedang
+1351,Amex,Credit,18,"10-20","892 Third Boulevard",Female,808,Cukup Baik
+1352,Mastercard,Debit,65,"61-70","8437 Sixth Street",Female,672,Sedang
+1353,Mastercard,Credit,50,"41-50","655 Federal Avenue",Female,816,Cukup Baik
+1354,Mastercard,Debit,34,"31-40","7401 Seventh Street",Male,692,Sedang
+1355,Mastercard,Credit,54,"51-60","41 Grant Drive",Male,536,Buruk
+1356,Mastercard,Debit,84,"81-90","9 Lafayette Lane",Male,733,Cukup Baik
+1357,Mastercard,Credit,75,"71-80","402 Birch Boulevard",Female,812,Cukup Baik
+1358,Mastercard,Debit,69,"61-70","128 Main Street",Female,768,Cukup Baik
+1359,Visa,Debit,35,"31-40","316 Lexington Boulevard",Female,691,Sedang
+1360,Visa,Credit,41,"41-50","4693 Elm Lane",Male,672,Sedang
+1361,Visa,Debit,67,"61-70","9385 Lincoln Drive",Male,638,Sedang
+1362,Amex,Credit,58,"51-60","3385 Hill Lane",Male,727,Cukup Baik
+1363,Discover,Credit,18,"10-20","62715 Sixth Avenue",Male,690,Sedang
+1364,Mastercard,Debit,47,"41-50","37845 Main Street",Male,750,Cukup Baik
+1365,Mastercard,Debit,18,"10-20","6039 Valley Stream Street",Male,751,Cukup Baik
+1366,Mastercard,Debit,25,"21-30","212 Lincoln Lane",Female,767,Cukup Baik
+1367,Mastercard,Credit,49,"41-50","364 Plum Lane",Female,708,Cukup Baik
+1368,Mastercard,Debit,29,"21-30","637 Littlewood Drive",Female,717,Cukup Baik
+1369,Visa,Debit,59,"51-60","535 Grant Boulevard",Female,850,Cukup Baik
+1370,Mastercard,Debit,62,"61-70","99 Fifth Street",Female,709,Cukup Baik
+1371,Mastercard,Credit,86,"81-90","143 Catherine Boulevard",Female,689,Sedang
+1372,Mastercard,Debit,76,"71-80","96 Ninth Lane",Female,697,Sedang
+1373,Mastercard,Debit (Prepaid),35,"31-40","834 Tenth Lane",Female,764,Cukup Baik
+1374,Mastercard,Debit,28,"21-30","7004 Mill Drive",Female,758,Cukup Baik
+1375,Visa,Debit,23,"21-30","532 Lake Drive",Female,717,Cukup Baik
+1376,Visa,Debit,49,"41-50","97536 Summit Street",Female,543,Buruk
+1377,Visa,Debit,32,"31-40","593 Washington Drive",Female,569,Buruk
+1378,Mastercard,Debit,46,"41-50","778 Main Avenue",Female,614,Sedang
+1379,Mastercard,Debit (Prepaid),76,"71-80","93374 11th Street",Male,701,Cukup Baik
+1380,Mastercard,Debit,37,"31-40","566 Lexington Drive",Male,736,Cukup Baik
+1381,Mastercard,Debit,79,"71-80","1699 West Lane",Male,690,Sedang
+1382,Visa,Debit,58,"51-60","16 Eighth Lane",Male,706,Cukup Baik
+1383,Visa,Debit,68,"61-70","315 Norfolk Lane",Female,670,Sedang
+1384,Visa,Debit,74,"71-80","528 Lake Drive",Female,721,Cukup Baik
+1385,Visa,Debit (Prepaid),51,"51-60","5537 Eighth Street",Female,789,Cukup Baik
+1386,Amex,Credit,59,"51-60","485 Birch Boulevard",Male,712,Cukup Baik
+1387,Discover,Credit,28,"21-30","104 First Boulevard",Male,785,Cukup Baik
+1388,Mastercard,Credit,26,"21-30","4379 Lake Avenue",Male,691,Sedang
+1389,Mastercard,Debit,40,"31-40","6950 Federal Avenue",Female,793,Cukup Baik
+1390,Mastercard,Debit (Prepaid),37,"31-40","691 First Lane",Male,850,Cukup Baik
+1391,Mastercard,Debit (Prepaid),45,"41-50","9604 Catherine Drive",Male,631,Sedang
+1392,Mastercard,Debit,24,"21-30","5653 North Drive",Male,743,Cukup Baik
+1393,Visa,Debit (Prepaid),52,"51-60","6467 Birch Street",Female,692,Sedang
+1394,Visa,Credit,30,"21-30","341 Hill Drive",Female,558,Buruk
+1395,Amex,Credit,58,"51-60","2687 Burns Avenue",Male,604,Sedang
+1396,Amex,Credit,22,"21-30","666 Lafayette Lane",Male,732,Cukup Baik
+1397,Amex,Credit,32,"31-40","5381 12th Boulevard",Male,710,Cukup Baik
+1398,Amex,Credit,52,"51-60","304 Third Boulevard",Male,745,Cukup Baik
+1399,Amex,Credit,28,"21-30","221 Lexington Avenue",Male,707,Cukup Baik
+1400,Amex,Credit,29,"21-30","4673 Washington Avenue",Male,698,Sedang
+1401,Amex,Credit,24,"21-30","9713 Fourth Lane",Male,739,Cukup Baik
+1402,Amex,Credit,35,"31-40","626 Federal Drive",Male,590,Buruk
+1403,Amex,Credit,74,"71-80","316 Grant Drive",Male,753,Cukup Baik
+1404,Amex,Credit,52,"51-60","68 Sixth Avenue",Female,526,Buruk
+1405,Amex,Credit,45,"41-50","70 Tenth Boulevard",Male,777,Cukup Baik
+1406,Amex,Credit,36,"31-40","57 Pine Boulevard",Male,712,Cukup Baik
+1407,Amex,Credit,40,"31-40","9466 Essex Street",Male,689,Sedang
+1408,Amex,Credit,42,"41-50","209 George Avenue",Male,683,Sedang
+1409,Amex,Credit,23,"21-30","512 Tenth Street",Male,701,Cukup Baik
+1410,Amex,Credit,22,"21-30","7902 Norfolk Drive",Female,571,Buruk
+1411,Amex,Credit,57,"51-60","3196 Elm Boulevard",Female,720,Cukup Baik
+1412,Amex,Credit,58,"51-60","91 Jefferson Drive",Female,707,Cukup Baik
+1413,Amex,Credit,39,"31-40","796 Sussex Avenue",Female,685,Sedang
+1414,Amex,Credit,71,"71-80","5822 Fourth Boulevard",Female,783,Cukup Baik
+1415,Amex,Credit,28,"21-30","243 Wessex Avenue",Male,689,Sedang
+1416,Amex,Credit,73,"71-80","8258 Jefferson Drive",Female,709,Cukup Baik
+1417,Amex,Credit,54,"51-60","336 Catherine Lane",Female,835,Cukup Baik
+1418,Amex,Credit,25,"21-30","309 River Avenue",Female,752,Cukup Baik
+1419,Amex,Credit,53,"51-60","634 Grant Boulevard",Female,647,Sedang
+1420,Amex,Credit,87,"81-90","673 11th Drive",Female,688,Sedang
+1421,Amex,Credit,30,"21-30","7691 Ocean View Avenue",Male,740,Cukup Baik
+1422,Amex,Credit,66,"61-70","330 Martin Luther King Lane",Female,767,Cukup Baik
+1423,Amex,Credit,23,"21-30","989 Hill Avenue",Female,689,Sedang
+1424,Amex,Credit,101,"91+","887 Third Boulevard",Female,761,Cukup Baik
+1425,Amex,Credit,88,"81-90","95 Sixth Avenue",Female,809,Cukup Baik
+1426,Amex,Credit,22,"21-30","37 Norfolk Boulevard",Female,805,Cukup Baik
+1427,Amex,Credit,34,"31-40","326 Elm Lane",Female,770,Cukup Baik
+1428,Amex,Credit,35,"31-40","800 Ninth Boulevard",Female,508,Buruk
+1429,Amex,Credit,62,"61-70","4823 Lincoln Drive",Female,799,Cukup Baik
+1430,Amex,Credit,69,"61-70","131 Tenth Avenue",Female,593,Buruk
+1431,Amex,Credit,56,"51-60","6134 Littlewood Lane",Female,599,Buruk
+1432,Amex,Credit,42,"41-50","78 Lexington Street",Male,741,Cukup Baik
+1433,Amex,Credit,73,"71-80","2834 West Street",Male,581,Buruk
+1434,Amex,Credit,62,"61-70","8278 Grant Lane",Male,717,Cukup Baik
+1435,Amex,Credit,41,"41-50","9872 Lexington Street",Female,703,Cukup Baik
+1436,Amex,Credit,21,"21-30","729 Wessex Avenue",Female,500,Buruk
+1437,Amex,Credit,77,"71-80","456 Birch Lane",Female,751,Cukup Baik
+1438,Amex,Credit,26,"21-30","4631 Plum Avenue",Female,700,Sedang
+1439,Amex,Credit,28,"21-30","5663 Martin Luther King Boulevard",Female,715,Cukup Baik
+1440,Discover,Credit,26,"21-30","7344 Oak Drive",Male,630,Sedang
+1441,Discover,Credit,40,"31-40","631 Ocean View Street",Male,737,Cukup Baik
+1442,Discover,Credit,41,"41-50","1036 Spruce Street",Male,624,Sedang
+1443,Discover,Credit,47,"41-50","318 Ninth Lane",Male,732,Cukup Baik
+1444,Discover,Credit,64,"61-70","8999 Washington Drive",Male,698,Sedang
+1445,Discover,Credit,68,"61-70","8199 Park Boulevard",Male,841,Cukup Baik
+1446,Discover,Credit,28,"21-30","54 Burns Avenue",Male,689,Sedang
+1447,Discover,Credit,33,"31-40","338 George Avenue",Male,610,Sedang
+1448,Discover,Credit,48,"41-50","578 Maple Avenue",Female,850,Cukup Baik
+1449,Discover,Credit,66,"61-70","5807 Lincoln Street",Male,751,Cukup Baik
+1450,Discover,Credit,22,"21-30","440 Littlewood Drive",Male,780,Cukup Baik
+1451,Discover,Credit,58,"51-60","9384 Lake Street",Female,719,Cukup Baik
+1452,Discover,Credit,46,"41-50","524 Ocean Drive",Female,660,Sedang
+1453,Discover,Credit,37,"31-40","4830 Ocean Drive",Female,641,Sedang
+1454,Discover,Credit,30,"21-30","7051 West Drive",Male,748,Cukup Baik
+1455,Discover,Credit,36,"31-40","83 Sixth Drive",Male,713,Cukup Baik
+1456,Discover,Credit,48,"41-50","884 Tenth Drive",Male,681,Sedang
+1457,Discover,Credit,20,"10-20","11162 Oak Drive",Male,688,Sedang
+1458,Discover,Credit,32,"31-40","6106 Norfolk Boulevard",Male,708,Cukup Baik
+1459,Mastercard,Debit,53,"51-60","9385 Birch Street",Male,707,Cukup Baik
+1460,Mastercard,Debit,24,"21-30","7454 12th Lane",Female,590,Buruk
+1461,Mastercard,Credit,41,"41-50","691 Valley Drive",Female,704,Cukup Baik
+1462,Mastercard,Credit,30,"21-30","4788 Jefferson Boulevard",Female,586,Buruk
+1463,Mastercard,Debit,80,"71-80","221 Catherine Boulevard",Female,732,Cukup Baik
+1464,Mastercard,Credit,63,"61-70","99 Valley Stream Street",Female,682,Sedang
+1465,Mastercard,Credit,29,"21-30","8463 Second Street",Female,801,Tidak Baik
+1466,Mastercard,Debit,36,"31-40","3194 Norfolk Street",Female,812,Cukup Baik
+1467,Mastercard,Credit,26,"21-30","229 Norfolk Street",Female,736,Cukup Baik
+1468,Mastercard,Debit,66,"61-70","5238 Plum Street",Male,626,Sedang
+1469,Mastercard,Credit,21,"21-30","74 Hill Avenue",Male,759,Cukup Baik
+1470,Mastercard,Credit,88,"81-90","636 Main Avenue",Male,700,Sedang
+1471,Mastercard,Debit,31,"31-40","7948 Martin Luther King Avenue",Male,786,Cukup Baik
+1472,Mastercard,Credit,43,"41-50","33 Bayview Avenue",Male,694,Sedang
+1473,Mastercard,Debit,51,"51-60","6541 Fourth Drive",Female,850,Cukup Baik
+1474,Mastercard,Credit,23,"21-30","359 Tenth Avenue",Female,705,Cukup Baik
+1475,Mastercard,Debit,98,"91+","412 Burns Drive",Female,725,Cukup Baik
+1476,Mastercard,Debit,29,"21-30","685 Jefferson Avenue",Female,716,Cukup Baik
+1477,Mastercard,Debit,47,"41-50","30 First Lane",Male,696,Sedang
+1478,Mastercard,Debit,39,"31-40","3863 River Avenue",Female,849,Cukup Baik
+1479,Mastercard,Debit (Prepaid),32,"31-40","335 Main Street",Male,805,Cukup Baik
+1480,Mastercard,Debit,49,"41-50","5642 Bayview Avenue",Male,705,Cukup Baik
+1481,Mastercard,Debit,72,"71-80","527 Federal Avenue",Male,632,Sedang
+1482,Mastercard,Credit,54,"51-60","52 Sixth Boulevard",Male,675,Sedang
+1483,Mastercard,Debit,18,"10-20","65690 Bayview Lane",Male,714,Cukup Baik
+1484,Mastercard,Debit,92,"91+","290 Forest Street",Female,726,Cukup Baik
+1485,Mastercard,Debit,64,"61-70","1350 Lake Drive",Male,618,Sedang
+1486,Mastercard,Debit (Prepaid),39,"31-40","396 Park Street",Female,789,Cukup Baik
+1487,Mastercard,Debit,59,"51-60","4793 North Street",Female,727,Cukup Baik
+1488,Mastercard,Debit,34,"31-40","6427 12th Boulevard",Female,695,Sedang
+1489,Mastercard,Credit,58,"51-60","9191 Main Avenue",Female,691,Sedang
+1490,Mastercard,Debit,30,"21-30","145 Spruce Street",Female,761,Cukup Baik
+1491,Mastercard,Credit,41,"41-50","40 River Boulevard",Female,710,Cukup Baik
+1492,Mastercard,Credit,63,"61-70","2883 Ocean View Boulevard",Female,786,Cukup Baik
+1493,Mastercard,Debit,30,"21-30","136 Spruce Street",Male,765,Cukup Baik
+1494,Mastercard,Debit,26,"21-30","7703 Fourth Avenue",Male,711,Cukup Baik
+1495,Mastercard,Debit,52,"51-60","469 Mountain View Boulevard",Male,770,Cukup Baik
+1496,Mastercard,Credit,20,"10-20","9895 El Camino Boulevard",Male,713,Cukup Baik
+1497,Mastercard,Debit (Prepaid),55,"51-60","292 Tenth Street",Female,623,Sedang
+1498,Mastercard,Credit,47,"41-50","69590 Rose Drive",Female,726,Cukup Baik
+1499,Mastercard,Debit (Prepaid),46,"41-50","8738 Fourth Street",Male,662,Sedang
+1500,Mastercard,Debit,53,"51-60","270 Plum Street",Male,680,Sedang
+1501,Mastercard,Credit,40,"31-40","8475 Essex Lane",Male,712,Cukup Baik
+1502,Mastercard,Debit,21,"21-30","92196 Tenth Drive",Male,787,Cukup Baik
+1503,Mastercard,Credit,59,"51-60","1362 Norfolk Drive",Male,725,Cukup Baik
+1504,Mastercard,Debit (Prepaid),85,"81-90","5993 12th Lane",Male,734,Cukup Baik
+1505,Mastercard,Debit,29,"21-30","556 Fourth Street",Male,685,Sedang
+1506,Mastercard,Debit,25,"21-30","2800 Third Drive",Male,614,Sedang
+1507,Mastercard,Credit,39,"31-40","1533 Martin Luther King Lane",Female,744,Cukup Baik
+1508,Mastercard,Credit,66,"61-70","8929 Essex Drive",Female,747,Cukup Baik
+1509,Mastercard,Debit,67,"61-70","1429 Summit Drive",Female,820,Cukup Baik
+1510,Mastercard,Debit,32,"31-40","835 Main Avenue",Male,764,Cukup Baik
+1511,Mastercard,Credit,43,"41-50","18 Norfolk Boulevard",Male,719,Cukup Baik
+1512,Mastercard,Debit,44,"41-50","6995 North Drive",Male,778,Cukup Baik
+1513,Mastercard,Credit,48,"41-50","8849 West Drive",Male,733,Cukup Baik
+1514,Mastercard,Debit (Prepaid),53,"51-60","6733 Third Boulevard",Female,721,Cukup Baik
+1515,Mastercard,Debit,77,"71-80","7239 Hill Lane",Female,520,Buruk
+1516,Mastercard,Debit,38,"31-40","909 Eighth Street",Male,755,Cukup Baik
+1517,Mastercard,Debit,37,"31-40","7954 Wessex Boulevard",Male,764,Cukup Baik
+1518,Mastercard,Credit,62,"61-70","313 Martin Luther King Boulevard",Male,745,Cukup Baik
+1519,Mastercard,Debit,41,"41-50","98086 Essex Drive",Female,849,Cukup Baik
+1520,Mastercard,Credit,67,"61-70","8787 Rose Avenue",Male,789,Cukup Baik
+1521,Mastercard,Debit,71,"71-80","557 Burns Boulevard",Female,706,Cukup Baik
+1522,Mastercard,Debit,88,"81-90","41740 First Street",Female,593,Buruk
+1523,Mastercard,Debit,61,"61-70","7561 Valley Avenue",Female,850,Cukup Baik
+1524,Mastercard,Debit,26,"21-30","118 Mountain View Lane",Male,732,Cukup Baik
+1525,Mastercard,Debit,43,"41-50","534 Sixth Boulevard",Female,728,Cukup Baik
+1526,Mastercard,Debit,53,"51-60","5773 River Street",Female,671,Sedang
+1527,Mastercard,Debit,66,"61-70","1426 Fifth Avenue",Female,578,Buruk
+1528,Mastercard,Debit,78,"71-80","324 Lafayette Drive",Female,695,Sedang
+1529,Mastercard,Credit,51,"51-60","310 Birch Avenue",Male,692,Sedang
+1530,Mastercard,Debit (Prepaid),64,"61-70","25 Elm Street",Female,732,Cukup Baik
+1531,Mastercard,Debit,34,"31-40","801 River Street",Male,792,Cukup Baik
+1532,Mastercard,Debit,28,"21-30","99 El Camino Drive",Female,759,Cukup Baik
+1533,Mastercard,Credit,39,"31-40","470 11th Lane",Female,830,Cukup Baik
+1534,Mastercard,Debit,36,"31-40","1531 North Lane",Male,803,Cukup Baik
+1535,Mastercard,Debit,59,"51-60","8 Pine Street",Male,590,Buruk
+1536,Mastercard,Debit (Prepaid),41,"41-50","2015 Bayview Avenue",Male,766,Cukup Baik
+1537,Mastercard,Credit,35,"31-40","4395 Bayview Lane",Female,637,Sedang
+1538,Mastercard,Debit,82,"81-90","58 River Avenue",Male,590,Buruk
+1539,Mastercard,Debit,42,"41-50","215 Main Drive",Female,676,Sedang
+1540,Mastercard,Debit,55,"51-60","1513 Valley Boulevard",Female,625,Sedang
+1541,Mastercard,Debit,48,"41-50","7139 Lake Boulevard",Female,681,Sedang
+1542,Mastercard,Debit,46,"41-50","515 South Street",Female,731,Cukup Baik
+1543,Mastercard,Debit,31,"31-40","5857 12th Avenue",Female,684,Sedang
+1544,Mastercard,Credit,36,"31-40","7643 Martin Luther King Street",Female,679,Sedang
+1545,Mastercard,Debit (Prepaid),20,"10-20","1433 Rose Boulevard",Male,807,Cukup Baik
+1546,Mastercard,Credit,48,"41-50","70 Second Drive",Male,668,Sedang
+1547,Mastercard,Debit,28,"21-30","768 Valley Stream Drive",Male,684,Sedang
+1548,Mastercard,Debit,41,"41-50","439 George Avenue",Male,721,Cukup Baik
+1549,Mastercard,Debit,68,"61-70","731 Martin Luther King Boulevard",Male,747,Cukup Baik
+1550,Mastercard,Credit,18,"10-20","6445 Ninth Lane",Male,776,Cukup Baik
+1551,Mastercard,Debit,47,"41-50","148 Hillside Boulevard",Male,687,Sedang
+1552,Mastercard,Debit,62,"61-70","896 Madison Boulevard",Male,686,Sedang
+1553,Mastercard,Debit,21,"21-30","5 Lafayette Avenue",Male,701,Cukup Baik
+1554,Mastercard,Credit,49,"41-50","227 Little Creek Street",Male,696,Sedang
+1555,Mastercard,Debit (Prepaid),28,"21-30","5367 Pine Avenue",Female,717,Cukup Baik
+1556,Mastercard,Debit,30,"21-30","594 Mountain View Street",Female,740,Cukup Baik
+1557,Mastercard,Debit,50,"41-50","2516 Essex Drive",Female,707,Cukup Baik
+1558,Mastercard,Debit (Prepaid),47,"41-50","675 Little Creek Drive",Female,597,Buruk
+1559,Mastercard,Credit,56,"51-60","607 George Boulevard",Female,746,Cukup Baik
+1560,Mastercard,Debit,61,"61-70","1861 Fourth Boulevard",Female,741,Cukup Baik
+1561,Mastercard,Credit,78,"71-80","245 Martin Luther King Drive",Female,759,Cukup Baik
+1562,Mastercard,Debit,38,"31-40","8 Hillside Lane",Female,759,Cukup Baik
+1563,Mastercard,Credit,49,"41-50","924 Spruce Street",Female,683,Sedang
+1564,Mastercard,Debit,35,"31-40","55 Ocean View Street",Male,683,Sedang
+1565,Mastercard,Credit,37,"31-40","33 Mill Street",Female,584,Buruk
+1566,Mastercard,Debit,44,"41-50","48 Fourth Avenue",Male,718,Cukup Baik
+1567,Mastercard,Debit (Prepaid),43,"41-50","7874 Wessex Street",Female,747,Cukup Baik
+1568,Mastercard,Debit,47,"41-50","3816 Spruce Drive",Female,748,Cukup Baik
+1569,Mastercard,Credit,68,"61-70","7276 Valley Drive",Female,722,Cukup Baik
+1570,Mastercard,Debit,21,"21-30","100 Seventh Drive",Female,761,Cukup Baik
+1571,Mastercard,Debit,58,"51-60","385 Jefferson Avenue",Female,759,Cukup Baik
+1572,Mastercard,Debit,40,"31-40","903 Norfolk Boulevard",Female,658,Sedang
+1573,Mastercard,Debit,71,"71-80","793 Norfolk Avenue",Male,746,Cukup Baik
+1574,Mastercard,Debit,22,"21-30","7318 Mill Lane",Female,746,Cukup Baik
+1575,Mastercard,Debit,51,"51-60","23 12th Boulevard",Female,724,Cukup Baik
+1576,Mastercard,Debit,88,"81-90","2947 Lake Lane",Female,712,Cukup Baik
+1577,Mastercard,Debit (Prepaid),53,"51-60","153 Wessex Drive",Male,718,Cukup Baik
+1578,Mastercard,Debit,86,"81-90","3899 Seventh Lane",Male,714,Cukup Baik
+1579,Mastercard,Debit,81,"81-90","7673 Plum Drive",Female,728,Cukup Baik
+1580,Mastercard,Credit,19,"10-20","528 Spruce Lane",Female,621,Sedang
+1581,Mastercard,Debit (Prepaid),38,"31-40","9324 Catherine Street",Female,684,Sedang
+1582,Mastercard,Credit,23,"21-30","515 Tenth Lane",Female,688,Sedang
+1583,Mastercard,Debit,38,"31-40","182 Valley Street",Male,826,Cukup Baik
+1584,Mastercard,Debit,27,"21-30","9264 Lake Avenue",Male,692,Sedang
+1585,Mastercard,Debit,35,"31-40","4346 El Camino Boulevard",Female,688,Sedang
+1586,Mastercard,Debit,43,"41-50","2974 Grant Avenue",Male,672,Sedang
+1587,Mastercard,Debit (Prepaid),31,"31-40","8803 Washington Boulevard",Male,695,Sedang
+1588,Mastercard,Debit,42,"41-50","74 Sixth Avenue",Male,689,Sedang
+1589,Mastercard,Credit,39,"31-40","6301 Hillside Avenue",Female,702,Cukup Baik
+1590,Mastercard,Debit,48,"41-50","781 East Street",Female,599,Buruk
+1591,Mastercard,Debit (Prepaid),58,"51-60","2200 Third Drive",Female,698,Sedang
+1592,Mastercard,Debit,19,"10-20","1317 Wessex Lane",Male,708,Cukup Baik
+1593,Mastercard,Debit,24,"21-30","652 Maple Street",Male,753,Cukup Baik
+1594,Mastercard,Debit,39,"31-40","532 12th Drive",Male,643,Sedang
+1595,Mastercard,Credit,47,"41-50","4191 Maple Avenue",Female,753,Cukup Baik
+1596,Mastercard,Debit (Prepaid),42,"41-50","188 Washington Avenue",Male,734,Cukup Baik
+1597,Mastercard,Debit,20,"10-20","3404 Main Lane",Male,697,Sedang
+1598,Mastercard,Credit,82,"81-90","996 Valley Drive",Male,697,Sedang
+1599,Mastercard,Debit,22,"21-30","71 Madison Street",Male,790,Cukup Baik
+1600,Mastercard,Credit,62,"61-70","314 Fourth Street",Female,747,Cukup Baik
+1601,Mastercard,Debit,26,"21-30","388 Third Street",Female,628,Sedang
+1602,Mastercard,Debit,41,"41-50","2079 Maple Drive",Female,717,Cukup Baik
+1603,Mastercard,Debit,41,"41-50","6515 Hillside Drive",Male,762,Cukup Baik
+1604,Mastercard,Debit,55,"51-60","7680 Fourth Street",Male,742,Cukup Baik
+1605,Mastercard,Debit,39,"31-40","9995 Pine Avenue",Male,690,Sedang
+1606,Mastercard,Debit,49,"41-50","9383 Martin Luther King Street",Male,806,Cukup Baik
+1607,Mastercard,Debit,21,"21-30","724 Valley Stream Street",Male,689,Sedang
+1608,Mastercard,Debit,19,"10-20","1464 Bayview Street",Female,572,Buruk
+1609,Mastercard,Debit,71,"71-80","9854 Park Lane",Female,779,Cukup Baik
+1610,Mastercard,Debit,42,"41-50","12150 Mill Boulevard",Female,690,Sedang
+1611,Mastercard,Debit,68,"61-70","44 Ocean Avenue",Female,684,Sedang
+1612,Mastercard,Debit,68,"61-70","198 Main Boulevard",Male,562,Buruk
+1613,Mastercard,Debit,39,"31-40","4784 Park Boulevard",Male,792,Cukup Baik
+1614,Mastercard,Debit,40,"31-40","7072 Mountain View Avenue",Female,716,Cukup Baik
+1615,Mastercard,Debit,66,"61-70","1105 Second Drive",Female,701,Cukup Baik
+1616,Mastercard,Debit,48,"41-50","469 First Lane",Male,815,Cukup Baik
+1617,Mastercard,Credit,30,"21-30","105 Seventh Street",Male,659,Sedang
+1618,Mastercard,Debit,53,"51-60","3512 Forest Street",Male,682,Sedang
+1619,Mastercard,Debit,31,"31-40","693 Seventh Street",Male,747,Cukup Baik
+1620,Mastercard,Debit,21,"21-30","2537 Forest Boulevard",Male,701,Cukup Baik
+1621,Mastercard,Debit,66,"61-70","900 Catherine Street",Male,744,Cukup Baik
+1622,Mastercard,Debit,41,"41-50","1063 Federal Boulevard",Female,759,Cukup Baik
+1623,Mastercard,Debit,32,"31-40","8121 North Boulevard",Female,746,Cukup Baik
+1624,Mastercard,Debit,23,"21-30","613 First Boulevard",Male,769,Cukup Baik
+1625,Mastercard,Debit,24,"21-30","625 Washington Lane",Female,659,Sedang
+1626,Mastercard,Credit,58,"51-60","9212 Plum Avenue",Male,531,Buruk
+1627,Mastercard,Debit,29,"21-30","323 Mountain View Lane",Male,825,Cukup Baik
+1628,Mastercard,Debit,56,"51-60","438 Seventh Avenue",Male,786,Cukup Baik
+1629,Mastercard,Debit,42,"41-50","53789 Bayview Street",Female,598,Buruk
+1630,Mastercard,Credit,24,"21-30","716 Bayview Avenue",Male,719,Cukup Baik
+1631,Mastercard,Debit,18,"10-20","4735 Fifth Avenue",Female,740,Cukup Baik
+1632,Mastercard,Debit,20,"10-20","885 Bayview Lane",Female,660,Sedang
+1633,Mastercard,Debit,36,"31-40","4172 Federal Drive",Male,687,Sedang
+1634,Mastercard,Debit,66,"61-70","703 West Drive",Male,825,Cukup Baik
+1635,Mastercard,Debit,54,"51-60","90 Sussex Drive",Male,616,Sedang
+1636,Mastercard,Credit,49,"41-50","4882 Mountain View Lane",Male,695,Sedang
+1637,Mastercard,Debit,32,"31-40","8445 11th Lane",Female,687,Sedang
+1638,Mastercard,Debit (Prepaid),79,"71-80","6337 Spruce Street",Female,668,Sedang
+1639,Mastercard,Debit,58,"51-60","1034 Pine Boulevard",Male,676,Sedang
+1640,Mastercard,Debit,67,"61-70","311 Washington Lane",Female,729,Cukup Baik
+1641,Mastercard,Debit,30,"21-30","3636 El Camino Avenue",Male,640,Sedang
+1642,Mastercard,Debit,37,"31-40","48190 Plum Drive",Female,731,Cukup Baik
+1643,Mastercard,Debit,28,"21-30","233 Oak Drive",Female,686,Sedang
+1644,Mastercard,Credit,83,"81-90","637 Seventh Street",Male,686,Sedang
+1645,Mastercard,Debit (Prepaid),62,"61-70","58 Federal Lane",Female,716,Cukup Baik
+1646,Mastercard,Credit,54,"51-60","0 Ocean Boulevard",Male,714,Cukup Baik
+1647,Mastercard,Credit,18,"10-20","1358 Plum Avenue",Female,684,Sedang
+1648,Mastercard,Debit,66,"61-70","211 Valley Street",Female,621,Sedang
+1649,Mastercard,Debit (Prepaid),64,"61-70","8146 Third Avenue",Male,729,Cukup Baik
+1650,Mastercard,Debit,18,"10-20","701 Pine Drive",Male,687,Sedang
+1651,Mastercard,Debit,33,"31-40","632 Pine Drive",Male,739,Cukup Baik
+1652,Mastercard,Debit,51,"51-60","733 Maple Drive",Female,728,Cukup Baik
+1653,Mastercard,Debit,42,"41-50","603 Rose Avenue",Male,681,Sedang
+1654,Mastercard,Debit,43,"41-50","385 Pine Drive",Male,693,Sedang
+1655,Mastercard,Debit (Prepaid),57,"51-60","2547 El Camino Street",Male,830,Cukup Baik
+1656,Mastercard,Debit,35,"31-40","350 Third Avenue",Female,706,Cukup Baik
+1657,Mastercard,Debit,35,"31-40","600 River Lane",Male,655,Sedang
+1658,Mastercard,Debit,28,"21-30","8128 Hillside Avenue",Female,695,Sedang
+1659,Mastercard,Credit,94,"91+","4570 Valley Stream Lane",Female,782,Cukup Baik
+1660,Mastercard,Debit,41,"41-50","40 Washington Drive",Female,723,Cukup Baik
+1661,Mastercard,Debit,42,"41-50","939 Main Lane",Female,728,Cukup Baik
+1662,Mastercard,Debit (Prepaid),41,"41-50","469 Pine Street",Male,712,Cukup Baik
+1663,Mastercard,Credit,24,"21-30","276 12th Boulevard",Male,581,Buruk
+1664,Mastercard,Debit,38,"31-40","311 Fifth Drive",Male,791,Cukup Baik
+1665,Mastercard,Debit,19,"10-20","3804 Ninth Street",Male,665,Sedang
+1666,Mastercard,Debit,61,"61-70","649 Spruce Boulevard",Male,578,Buruk
+1667,Mastercard,Debit,18,"10-20","18 Bayview Avenue",Male,588,Buruk
+1668,Mastercard,Debit,92,"91+","619 North Avenue",Male,751,Cukup Baik
+1669,Mastercard,Debit,44,"41-50","6308 Maple Avenue",Male,698,Sedang
+1670,Mastercard,Debit,68,"61-70","46 Lincoln Lane",Male,732,Cukup Baik
+1671,Mastercard,Debit,50,"41-50","1559 Tenth Street",Male,604,Sedang
+1672,Mastercard,Debit,28,"21-30","919 Washington Drive",Male,792,Cukup Baik
+1673,Mastercard,Debit,41,"41-50","133 Grant Lane",Male,772,Cukup Baik
+1674,Mastercard,Debit,70,"61-70","5073 Wessex Avenue",Male,712,Cukup Baik
+1675,Mastercard,Debit,36,"31-40","97 Little Creek Boulevard",Male,767,Cukup Baik
+1676,Mastercard,Credit,51,"51-60","919 Martin Luther King Lane",Male,681,Sedang
+1677,Mastercard,Credit,51,"51-60","849 Littlewood Drive",Male,671,Sedang
+1678,Mastercard,Credit,36,"31-40","296 Pine Boulevard",Male,685,Sedang
+1679,Mastercard,Debit,18,"10-20","829 Fourth Boulevard",Female,776,Cukup Baik
+1680,Mastercard,Debit,59,"51-60","4701 Littlewood Drive",Female,598,Buruk
+1681,Mastercard,Debit,21,"21-30","21 Birch Drive",Male,746,Cukup Baik
+1682,Mastercard,Debit,57,"51-60","241 Hillside Lane",Male,716,Cukup Baik
+1683,Mastercard,Credit,43,"41-50","85 East Drive",Male,850,Cukup Baik
+1684,Mastercard,Debit,56,"51-60","27019 Madison Lane",Male,782,Cukup Baik
+1685,Mastercard,Debit,53,"51-60","5886 Ninth Boulevard",Male,681,Sedang
+1686,Mastercard,Credit,54,"51-60","401 North Avenue",Female,708,Cukup Baik
+1687,Mastercard,Credit,70,"61-70","469 Grant Lane",Female,621,Sedang
+1688,Mastercard,Debit,27,"21-30","8555 Eighth Avenue",Female,743,Cukup Baik
+1689,Mastercard,Credit,21,"21-30","93 Plum Lane",Female,637,Sedang
+1690,Mastercard,Debit (Prepaid),18,"10-20","356 Plum Boulevard",Female,630,Sedang
+1691,Mastercard,Debit,23,"21-30","5459 El Camino Avenue",Female,692,Sedang
+1692,Mastercard,Credit,81,"81-90","97339 Lake Avenue",Female,542,Buruk
+1693,Mastercard,Debit (Prepaid),36,"31-40","478 East Drive",Female,702,Cukup Baik
+1694,Mastercard,Debit,83,"81-90","480 Catherine Drive",Female,726,Cukup Baik
+1695,Mastercard,Debit,45,"41-50","238 Ocean View Lane",Female,709,Cukup Baik
+1696,Mastercard,Credit,63,"61-70","4461 Hill Street",Female,606,Sedang
+1697,Mastercard,Debit,64,"61-70","317 Wessex Boulevard",Male,685,Sedang
+1698,Mastercard,Debit,32,"31-40","2783 Washington Avenue",Male,747,Cukup Baik
+1699,Mastercard,Debit (Prepaid),67,"61-70","9205 Summit Street",Female,737,Cukup Baik
+1700,Mastercard,Debit (Prepaid),45,"41-50","891 Fourth Avenue",Female,822,Cukup Baik
+1701,Mastercard,Debit,56,"51-60","942 Lincoln Lane",Male,726,Cukup Baik
+1702,Mastercard,Debit (Prepaid),53,"51-60","75011 Lafayette Drive",Female,691,Sedang
+1703,Mastercard,Credit,47,"41-50","1532 Birch Drive",Female,747,Cukup Baik
+1704,Mastercard,Credit,27,"21-30","288 North Lane",Male,716,Cukup Baik
+1705,Mastercard,Debit,50,"41-50","952 Valley Avenue",Male,850,Cukup Baik
+1706,Mastercard,Debit,24,"21-30","165 Plum Avenue",Female,805,Cukup Baik
+1707,Mastercard,Debit,28,"21-30","816 Little Creek Lane",Female,620,Sedang
+1708,Mastercard,Debit,22,"21-30","90072 George Drive",Male,850,Cukup Baik
+1709,Mastercard,Debit,62,"61-70","628 Third Avenue",Female,744,Cukup Baik
+1710,Mastercard,Debit,33,"31-40","928 Bayview Street",Female,787,Cukup Baik
+1711,Mastercard,Debit,26,"21-30","1941 Ninth Street",Male,728,Cukup Baik
+1712,Mastercard,Debit,82,"81-90","1437 Madison Lane",Female,730,Cukup Baik
+1713,Mastercard,Debit,18,"10-20","3395 Spruce Drive",Female,837,Cukup Baik
+1714,Mastercard,Debit,23,"21-30","427 Martin Luther King Street",Female,794,Cukup Baik
+1715,Mastercard,Debit (Prepaid),32,"31-40","4460 11th Avenue",Female,679,Sedang
+1716,Mastercard,Debit (Prepaid),18,"10-20","1692 Hillside Avenue",Female,746,Cukup Baik
+1717,Mastercard,Debit (Prepaid),67,"61-70","728 Sixth Avenue",Female,726,Cukup Baik
+1718,Mastercard,Debit,81,"81-90","766 Third Drive",Female,698,Sedang
+1719,Mastercard,Debit,81,"81-90","678 Park Drive",Female,616,Sedang
+1720,Mastercard,Credit,55,"51-60","4941 Ocean View Drive",Female,590,Buruk
+1721,Mastercard,Debit (Prepaid),36,"31-40","620 River Boulevard",Female,642,Sedang
+1722,Mastercard,Credit,24,"21-30","162 Rose Drive",Female,600,Buruk
+1723,Mastercard,Debit,41,"41-50","560 Summit Street",Female,839,Cukup Baik
+1724,Mastercard,Debit (Prepaid),20,"10-20","489 Fourth Drive",Female,850,Cukup Baik
+1725,Mastercard,Credit,49,"41-50","791 11th Boulevard",Female,729,Cukup Baik
+1726,Mastercard,Debit,67,"61-70","3667 Washington Avenue",Female,687,Sedang
+1727,Mastercard,Debit,46,"41-50","31 Oak Avenue",Female,771,Cukup Baik
+1728,Mastercard,Debit,47,"41-50","2614 Eighth Lane",Female,601,Sedang
+1729,Mastercard,Debit,29,"21-30","8958 Catherine Street",Female,698,Sedang
+1730,Mastercard,Debit,52,"51-60","445 West Boulevard",Female,739,Cukup Baik
+1731,Mastercard,Debit,64,"61-70","599 First Drive",Female,704,Cukup Baik
+1732,Mastercard,Debit,50,"41-50","4704 Essex Boulevard",Female,637,Sedang
+1733,Mastercard,Credit,47,"41-50","6613 Hill Drive",Female,498,Tidak Baik
+1734,Mastercard,Credit,37,"31-40","185 Forest Drive",Male,739,Cukup Baik
+1735,Mastercard,Debit,56,"51-60","9291 Jefferson Drive",Male,614,Sedang
+1736,Mastercard,Debit,43,"41-50","2479 Valley Avenue",Male,695,Sedang
+1737,Mastercard,Debit,52,"51-60","14813 El Camino Drive",Male,739,Cukup Baik
+1738,Mastercard,Debit,30,"21-30","5142 Little Creek Street",Male,696,Sedang
+1739,Mastercard,Debit,49,"41-50","344 Birch Street",Male,531,Buruk
+1740,Mastercard,Debit,36,"31-40","42720 East Drive",Male,735,Cukup Baik
+1741,Mastercard,Debit,92,"91+","31 Hillside Lane",Male,707,Cukup Baik
+1742,Mastercard,Credit,58,"51-60","444 Maple Avenue",Female,751,Cukup Baik
+1743,Mastercard,Credit,18,"10-20","76 Federal Avenue",Female,774,Cukup Baik
+1744,Mastercard,Debit,31,"31-40","4238 Birch Lane",Female,693,Sedang
+1745,Mastercard,Debit,20,"10-20","8643 Lafayette Boulevard",Female,728,Cukup Baik
+1746,Mastercard,Debit (Prepaid),53,"51-60","3606 Federal Boulevard",Female,701,Cukup Baik
+1747,Mastercard,Debit,54,"51-60","3994 Hillside Drive",Male,719,Cukup Baik
+1748,Mastercard,Debit,44,"41-50","6624 Valley Street",Female,628,Sedang
+1749,Mastercard,Debit,50,"41-50","415 Elm Street",Female,614,Sedang
+1750,Mastercard,Debit,47,"41-50","892 Elm Street",Female,741,Cukup Baik
+1751,Mastercard,Debit (Prepaid),29,"21-30","828 Little Creek Boulevard",Female,736,Cukup Baik
+1752,Mastercard,Debit,34,"31-40","887 Grant Street",Female,810,Cukup Baik
+1753,Mastercard,Debit,46,"41-50","95612 South Street",Male,506,Buruk
+1754,Mastercard,Debit,34,"31-40","97 Fourth Drive",Female,562,Buruk
+1755,Mastercard,Debit,53,"51-60","302 Park Boulevard",Male,734,Cukup Baik
+1756,Mastercard,Debit,30,"21-30","32 Fourth Drive",Male,691,Sedang
+1757,Mastercard,Debit,39,"31-40","2773 El Camino Lane",Male,784,Cukup Baik
+1758,Mastercard,Debit,57,"51-60","126 Valley Drive",Male,645,Sedang
+1759,Mastercard,Debit,87,"81-90","983 George Boulevard",Female,778,Cukup Baik
+1760,Mastercard,Debit,35,"31-40","610 Lake Drive",Female,682,Sedang
+1761,Mastercard,Debit,23,"21-30","533 Fourth Street",Female,703,Cukup Baik
+1762,Mastercard,Debit,29,"21-30","5537 Forest Lane",Male,635,Sedang
+1763,Mastercard,Credit,49,"41-50","6593 North Avenue",Male,717,Cukup Baik
+1764,Mastercard,Debit,59,"51-60","4728 George Drive",Male,710,Cukup Baik
+1765,Mastercard,Debit,40,"31-40","9594 Burns Lane",Male,770,Cukup Baik
+1766,Visa,Debit,62,"61-70","6076 Bayview Boulevard",Male,789,Cukup Baik
+1767,Visa,Debit,21,"21-30","3208 El Camino Street",Female,709,Cukup Baik
+1768,Visa,Credit,28,"21-30","3615 Lafayette Boulevard",Female,573,Buruk
+1769,Visa,Debit,75,"71-80","177 Mill Boulevard",Male,661,Sedang
+1770,Visa,Credit,30,"21-30","6657 West Street",Male,703,Cukup Baik
+1771,Visa,Credit,41,"41-50","7662 Mountain View Boulevard",Male,794,Cukup Baik
+1772,Visa,Debit (Prepaid),47,"41-50","9070 West Street",Male,761,Cukup Baik
+1773,Visa,Debit,22,"21-30","675 Norfolk Drive",Male,742,Cukup Baik
+1774,Visa,Debit,52,"51-60","653 Mill Street",Male,758,Cukup Baik
+1775,Visa,Credit,26,"21-30","2484 Norfolk Drive",Male,788,Cukup Baik
+1776,Visa,Credit,47,"41-50","130 Lincoln Drive",Male,693,Sedang
+1777,Visa,Debit,47,"41-50","166 12th Street",Male,741,Cukup Baik
+1778,Visa,Debit,29,"21-30","32595 River Drive",Male,659,Sedang
+1779,Visa,Debit (Prepaid),30,"21-30","989 Hill Lane",Male,733,Cukup Baik
+1780,Visa,Credit,46,"41-50","9344 Mill Drive",Male,666,Sedang
+1781,Visa,Credit,29,"21-30","73 South Lane",Male,708,Cukup Baik
+1782,Visa,Debit,59,"51-60","4254 Plum Lane",Female,777,Cukup Baik
+1783,Visa,Credit,52,"51-60","2093 Ocean Street",Male,749,Cukup Baik
+1784,Visa,Debit,51,"51-60","6310 El Camino Drive",Male,690,Sedang
+1785,Visa,Credit,40,"31-40","344 11th Street",Male,607,Sedang
+1786,Visa,Credit,48,"41-50","7554 Sixth Street",Female,755,Cukup Baik
+1787,Visa,Credit,52,"51-60","417 Hill Lane",Female,689,Sedang
+1788,Visa,Debit,59,"51-60","420 Littlewood Drive",Female,673,Sedang
+1789,Visa,Debit,40,"31-40","57 West Boulevard",Female,684,Sedang
+1790,Visa,Debit,21,"21-30","727 Valley Stream Boulevard",Male,660,Sedang
+1791,Visa,Debit (Prepaid),61,"61-70","4975 Madison Boulevard",Male,593,Buruk
+1792,Visa,Debit,18,"10-20","1987 Hillside Lane",Female,723,Cukup Baik
+1793,Visa,Debit (Prepaid),37,"31-40","5608 Hillside Avenue",Male,825,Cukup Baik
+1794,Visa,Credit,49,"41-50","469 Catherine Avenue",Male,631,Sedang
+1795,Visa,Debit,25,"21-30","79 Hill Avenue",Female,647,Sedang
+1796,Visa,Debit,60,"51-60","89075 Spruce Drive",Female,794,Cukup Baik
+1797,Visa,Debit,67,"61-70","391 Martin Luther King Boulevard",Male,743,Cukup Baik
+1798,Visa,Credit,79,"71-80","760 Tenth Avenue",Male,517,Buruk
+1799,Visa,Credit,32,"31-40","3249 12th Drive",Male,646,Sedang
+1800,Visa,Credit,62,"61-70","506 Washington Lane",Male,641,Sedang
+1801,Visa,Credit,18,"10-20","3371 Madison Boulevard",Female,480,Tidak Baik
+1802,Visa,Debit,39,"31-40","719 Third Lane",Female,802,Cukup Baik
+1803,Visa,Debit,26,"21-30","596 Mountain View Lane",Female,578,Buruk
+1804,Visa,Debit,18,"10-20","1335 Norfolk Drive",Male,701,Cukup Baik
+1805,Visa,Credit,38,"31-40","679 Bayview Lane",Male,718,Cukup Baik
+1806,Visa,Debit,59,"51-60","299 11th Street",Female,822,Cukup Baik
+1807,Visa,Debit,47,"41-50","14780 Plum Lane",Female,828,Cukup Baik
+1808,Visa,Debit (Prepaid),31,"31-40","1415 Sixth Street",Female,697,Sedang
+1809,Visa,Credit,42,"41-50","338 Bayview Lane",Female,664,Sedang
+1810,Visa,Debit (Prepaid),66,"61-70","350 North Street",Male,711,Cukup Baik
+1811,Visa,Debit,83,"81-90","308 Second Boulevard",Male,764,Cukup Baik
+1812,Visa,Debit,31,"31-40","551 Essex Drive",Female,574,Buruk
+1813,Visa,Debit,35,"31-40","334 Birch Drive",Female,808,Cukup Baik
+1814,Visa,Debit,41,"41-50","136 South Street",Female,703,Cukup Baik
+1815,Visa,Debit,59,"51-60","8060 Pine Boulevard",Female,758,Cukup Baik
+1816,Visa,Debit,39,"31-40","251 Main Lane",Female,784,Cukup Baik
+1817,Visa,Debit (Prepaid),52,"51-60","25622 Lake Street",Female,683,Sedang
+1818,Visa,Credit,85,"81-90","23 11th Avenue",Female,500,Buruk
+1819,Visa,Debit,20,"10-20","621 Fifth Boulevard",Female,672,Sedang
+1820,Visa,Debit,60,"51-60","822 Lake Drive",Female,693,Sedang
+1821,Visa,Debit,21,"21-30","740 Burns Lane",Male,803,Cukup Baik
+1822,Visa,Debit,87,"81-90","7736 Eighth Boulevard",Female,767,Cukup Baik
+1823,Visa,Debit,67,"61-70","172 Third Lane",Male,743,Cukup Baik
+1824,Visa,Credit,23,"21-30","374 East Lane",Male,838,Cukup Baik
+1825,Visa,Credit,70,"61-70","817 Ocean Avenue",Female,718,Cukup Baik
+1826,Visa,Debit,45,"41-50","94936 Elm Drive",Female,654,Sedang
+1827,Visa,Credit,59,"51-60","6320 East Avenue",Male,686,Sedang
+1828,Visa,Debit,50,"41-50","35 Hillside Drive",Male,711,Cukup Baik
+1829,Visa,Debit,25,"21-30","4920 Valley Stream Drive",Male,710,Cukup Baik
+1830,Visa,Debit,56,"51-60","1184 Essex Lane",Male,758,Cukup Baik
+1831,Visa,Credit,25,"21-30","4386 El Camino Boulevard",Female,595,Buruk
+1832,Visa,Debit,36,"31-40","151 Lafayette Drive",Male,684,Sedang
+1833,Visa,Credit,27,"21-30","5514 Norfolk Boulevard",Male,743,Cukup Baik
+1834,Visa,Debit,32,"31-40","767 Park Drive",Female,681,Sedang
+1835,Visa,Debit,25,"21-30","355 Burns Boulevard",Female,793,Cukup Baik
+1836,Visa,Debit,35,"31-40","356 Mill Street",Male,748,Cukup Baik
+1837,Visa,Credit,66,"61-70","56 Tenth Boulevard",Female,766,Cukup Baik
+1838,Visa,Debit,18,"10-20","753 East Avenue",Female,695,Sedang
+1839,Visa,Credit,59,"51-60","1892 Catherine Street",Female,631,Sedang
+1840,Visa,Debit,46,"41-50","576 Martin Luther King Street",Female,706,Cukup Baik
+1841,Visa,Debit,28,"21-30","672 Grant Lane",Female,730,Cukup Baik
+1842,Visa,Credit,45,"41-50","41307 Main Lane",Male,637,Sedang
+1843,Visa,Debit,89,"81-90","89 Wessex Street",Male,760,Cukup Baik
+1844,Visa,Credit,79,"71-80","829 Birch Boulevard",Male,706,Cukup Baik
+1845,Visa,Debit (Prepaid),30,"21-30","498 Mountain View Avenue",Male,784,Cukup Baik
+1846,Visa,Credit,82,"81-90","635 Sussex Drive",Male,566,Buruk
+1847,Visa,Debit,22,"21-30","566 Hillside Street",Female,676,Sedang
+1848,Visa,Debit,31,"31-40","4947 Sussex Boulevard",Female,791,Cukup Baik
+1849,Visa,Debit,39,"31-40","364 12th Drive",Female,721,Cukup Baik
+1850,Visa,Debit,18,"10-20","293 South Street",Female,736,Cukup Baik
+1851,Visa,Debit,48,"41-50","73 Essex Lane",Male,727,Cukup Baik
+1852,Visa,Credit,57,"51-60","41011 Seventh Boulevard",Male,685,Sedang
+1853,Visa,Debit,39,"31-40","546 First Avenue",Male,771,Cukup Baik
+1854,Visa,Debit,48,"41-50","4405 Wessex Drive",Male,625,Sedang
+1855,Visa,Credit,67,"61-70","1 Burns Lane",Male,728,Cukup Baik
+1856,Visa,Debit,51,"51-60","1209 George Drive",Male,784,Cukup Baik
+1857,Visa,Debit (Prepaid),32,"31-40","4063 Burns Boulevard",Male,775,Cukup Baik
+1858,Visa,Debit (Prepaid),73,"71-80","6781 Spruce Boulevard",Male,705,Cukup Baik
+1859,Visa,Debit,68,"61-70","530 Federal Drive",Male,836,Cukup Baik
+1860,Visa,Debit,33,"31-40","689 Littlewood Lane",Female,719,Cukup Baik
+1861,Visa,Credit,57,"51-60","992 Forest Street",Female,779,Cukup Baik
+1862,Visa,Credit,25,"21-30","7111 Lexington Avenue",Female,686,Sedang
+1863,Visa,Credit,44,"41-50","25 Hill Drive",Female,850,Cukup Baik
+1864,Visa,Debit,20,"10-20","1177 Elm Avenue",Male,701,Cukup Baik
+1865,Visa,Credit,19,"10-20","616 Catherine Avenue",Male,782,Cukup Baik
+1866,Visa,Debit,22,"21-30","213 Rose Drive",Male,676,Sedang
+1867,Visa,Debit (Prepaid),33,"31-40","514 Sixth Boulevard",Male,644,Sedang
+1868,Visa,Debit,24,"21-30","39289 Essex Street",Male,714,Cukup Baik
+1869,Visa,Debit (Prepaid),28,"21-30","96707 East Boulevard",Male,702,Cukup Baik
+1870,Visa,Credit,24,"21-30","5458 Spruce Street",Male,767,Cukup Baik
+1871,Visa,Credit,83,"81-90","3241 Park Lane",Male,696,Sedang
+1872,Visa,Debit,62,"61-70","8915 Sixth Avenue",Male,804,Cukup Baik
+1873,Visa,Credit,51,"51-60","3722 Valley Boulevard",Female,651,Sedang
+1874,Visa,Credit,49,"41-50","7505 Tenth Boulevard",Male,783,Cukup Baik
+1875,Visa,Credit,56,"51-60","4966 Grant Street",Male,683,Sedang
+1876,Visa,Debit,50,"41-50","2040 Washington Boulevard",Male,775,Cukup Baik
+1877,Visa,Debit (Prepaid),65,"61-70","190 Sixth Drive",Male,714,Cukup Baik
+1878,Visa,Credit,18,"10-20","631 Elm Drive",Male,702,Cukup Baik
+1879,Visa,Debit,50,"41-50","659 Valley Drive",Male,609,Sedang
+1880,Visa,Debit,61,"61-70","8001 Essex Boulevard",Male,771,Cukup Baik
+1881,Visa,Credit,67,"61-70","159 Mill Street",Male,733,Cukup Baik
+1882,Visa,Credit,58,"51-60","860 Maple Avenue",Male,694,Sedang
+1883,Visa,Debit (Prepaid),76,"71-80","3462 Ocean Boulevard",Male,723,Cukup Baik
+1884,Visa,Debit,18,"10-20","660 Seventh Drive",Male,850,Cukup Baik
+1885,Visa,Credit,46,"41-50","189 Forest Street",Male,753,Cukup Baik
+1886,Visa,Credit,26,"21-30","6693 George Drive",Male,683,Sedang
+1887,Visa,Debit,18,"10-20","729 Wessex Drive",Male,503,Buruk
+1888,Visa,Debit,75,"71-80","7854 Plum Avenue",Female,748,Cukup Baik
+1889,Visa,Credit,66,"61-70","23 El Camino Street",Male,748,Cukup Baik
+1890,Visa,Debit,29,"21-30","338 Spruce Lane",Male,754,Cukup Baik
+1891,Visa,Debit,47,"41-50","96 Jefferson Street",Female,725,Cukup Baik
+1892,Visa,Debit,22,"21-30","449 Washington Street",Male,637,Sedang
+1893,Visa,Debit,26,"21-30","6222 Sixth Lane",Male,623,Sedang
+1894,Visa,Debit,21,"21-30","6595 Summit Boulevard",Female,790,Cukup Baik
+1895,Visa,Credit,56,"51-60","900 Littlewood Street",Female,706,Cukup Baik
+1896,Visa,Debit,50,"41-50","6695 River Lane",Female,641,Sedang
+1897,Visa,Debit (Prepaid),38,"31-40","683 Washington Street",Male,741,Cukup Baik
+1898,Visa,Debit,44,"41-50","5521 Spruce Avenue",Male,675,Sedang
+1899,Visa,Credit,31,"31-40","761 Main Avenue",Female,737,Cukup Baik
+1900,Visa,Debit,62,"61-70","690 Oak Street",Female,688,Sedang
+1901,Visa,Debit,63,"61-70","292 First Avenue",Female,730,Cukup Baik
+1902,Visa,Debit,36,"31-40","4350 Valley Boulevard",Female,769,Cukup Baik
+1903,Visa,Credit,50,"41-50","9794 Essex Lane",Female,709,Cukup Baik
+1904,Visa,Debit,69,"61-70","5844 Littlewood Street",Male,757,Cukup Baik
+1905,Visa,Credit,36,"31-40","9340 Valley Street",Male,808,Cukup Baik
+1906,Visa,Debit,18,"10-20","3699 Lafayette Avenue",Male,609,Sedang
+1907,Visa,Debit,37,"31-40","4189 Birch Street",Female,666,Sedang
+1908,Visa,Credit,78,"71-80","3601 Catherine Boulevard",Female,733,Cukup Baik
+1909,Visa,Debit,56,"51-60","603 Lake Avenue",Male,696,Sedang
+1910,Visa,Credit,49,"41-50","710 North Lane",Male,562,Buruk
+1911,Visa,Credit,58,"51-60","3856 Valley Boulevard",Female,768,Cukup Baik
+1912,Visa,Debit,37,"31-40","3510 Mountain View Street",Female,684,Sedang
+1913,Visa,Credit,60,"51-60","561 Martin Luther King Avenue",Female,619,Sedang
+1914,Visa,Debit,21,"21-30","5259 Lake Drive",Female,672,Sedang
+1915,Visa,Debit,54,"51-60","758 Sixth Boulevard",Male,775,Cukup Baik
+1916,Visa,Debit (Prepaid),82,"81-90","62696 Norfolk Drive",Male,767,Cukup Baik
+1917,Visa,Debit (Prepaid),49,"41-50","3225 Lexington Street",Male,680,Sedang
+1918,Visa,Debit,45,"41-50","955 Seventh Avenue",Male,550,Buruk
+1919,Visa,Debit,83,"81-90","7994 Maple Lane",Male,610,Sedang
+1920,Visa,Credit,64,"61-70","3315 Lake Lane",Male,713,Cukup Baik
+1921,Visa,Debit,44,"41-50","704 Third Avenue",Male,709,Cukup Baik
+1922,Visa,Debit,79,"71-80","127 Valley Boulevard",Male,640,Sedang
+1923,Visa,Credit,42,"41-50","9387 Lincoln Boulevard",Male,850,Cukup Baik
+1924,Visa,Debit,47,"41-50","605 Hillside Boulevard",Male,652,Sedang
+1925,Visa,Credit,25,"21-30","225 Seventh Avenue",Male,679,Sedang
+1926,Visa,Credit,70,"61-70","867 Valley Stream Boulevard",Female,689,Sedang
+1927,Visa,Debit,28,"21-30","35 Sixth Boulevard",Male,739,Cukup Baik
+1928,Visa,Debit,56,"51-60","273 Ocean Street",Male,750,Cukup Baik
+1929,Visa,Debit,29,"21-30","1734 George Drive",Male,717,Cukup Baik
+1930,Visa,Credit,26,"21-30","55 Madison Drive",Male,721,Cukup Baik
+1931,Visa,Debit,58,"51-60","8996 Third Street",Male,503,Buruk
+1932,Visa,Debit (Prepaid),26,"21-30","15 Valley Stream Drive",Female,658,Sedang
+1933,Visa,Credit,26,"21-30","345 Elm Avenue",Male,589,Buruk
+1934,Visa,Debit,47,"41-50","820 Second Lane",Female,691,Sedang
+1935,Visa,Debit (Prepaid),23,"21-30","98 Mountain View Drive",Female,750,Cukup Baik
+1936,Visa,Debit (Prepaid),86,"81-90","406 El Camino Boulevard",Female,714,Cukup Baik
+1937,Visa,Credit,65,"61-70","230 Plum Avenue",Female,667,Sedang
+1938,Visa,Credit,22,"21-30","295 Valley Drive",Male,795,Cukup Baik
+1939,Visa,Debit,43,"41-50","480 First Lane",Female,685,Sedang
+1940,Visa,Debit,40,"31-40","464 Lake Drive",Female,826,Cukup Baik
+1941,Visa,Debit (Prepaid),38,"31-40","2867 Federal Drive",Male,740,Cukup Baik
+1942,Visa,Debit,77,"71-80","2073 South Avenue",Female,673,Sedang
+1943,Visa,Debit (Prepaid),19,"10-20","1134 Valley Drive",Female,706,Cukup Baik
+1944,Visa,Credit,62,"61-70","2 Elm Drive",Female,740,Cukup Baik
+1945,Visa,Debit (Prepaid),56,"51-60","7728 Oak Drive",Female,727,Cukup Baik
+1946,Visa,Debit,76,"71-80","9186 Washington Avenue",Male,698,Sedang
+1947,Visa,Debit,87,"81-90","770 Maple Street",Male,765,Cukup Baik
+1948,Visa,Credit,24,"21-30","4132 Norfolk Boulevard",Male,685,Sedang
+1949,Visa,Debit,28,"21-30","993 Ninth Street",Female,706,Cukup Baik
+1950,Visa,Credit,39,"31-40","63 Plum Street",Female,720,Cukup Baik
+1951,Visa,Debit,48,"41-50","328 Birch Street",Female,708,Cukup Baik
+1952,Visa,Credit,26,"21-30","541 Federal Avenue",Female,821,Cukup Baik
+1953,Visa,Credit,29,"21-30","21 Lafayette Drive",Female,842,Cukup Baik
+1954,Visa,Debit (Prepaid),47,"41-50","965 Wessex Street",Female,683,Sedang
+1955,Visa,Credit,85,"81-90","7016 Hillside Lane",Female,674,Sedang
+1956,Visa,Debit,43,"41-50","93 11th Avenue",Female,739,Cukup Baik
+1957,Visa,Debit,40,"31-40","1977 Lake Avenue",Male,772,Cukup Baik
+1958,Visa,Credit,51,"51-60","2994 Tenth Lane",Male,680,Sedang
+1959,Visa,Debit,46,"41-50","8750 Lake Boulevard",Male,701,Cukup Baik
+1960,Visa,Debit,30,"21-30","334 Rose Boulevard",Male,612,Sedang
+1961,Visa,Credit,18,"10-20","6295 Norfolk Boulevard",Male,657,Sedang
+1962,Visa,Credit,34,"31-40","2066 Ninth Lane",Male,712,Cukup Baik
+1963,Visa,Credit,98,"91+","468 Spruce Street",Male,821,Cukup Baik
+1964,Visa,Debit,68,"61-70","973 Federal Drive",Male,643,Sedang
+1965,Visa,Debit,24,"21-30","34 Oak Boulevard",Male,745,Cukup Baik
+1966,Visa,Debit,42,"41-50","3835 Norfolk Street",Male,782,Cukup Baik
+1967,Visa,Debit,55,"51-60","3570 North Boulevard",Male,767,Cukup Baik
+1968,Visa,Debit,25,"21-30","611 Elm Lane",Female,775,Cukup Baik
+1969,Visa,Debit,84,"81-90","402 El Camino Drive",Male,733,Cukup Baik
+1970,Visa,Debit,18,"10-20","876 Main Avenue",Male,731,Cukup Baik
+1971,Visa,Credit,48,"41-50","829 Grant Boulevard",Male,763,Cukup Baik
+1972,Visa,Debit,73,"71-80","3802 Maple Street",Female,772,Cukup Baik
+1973,Visa,Debit,58,"51-60","501 Grant Lane",Female,731,Cukup Baik
+1974,Visa,Credit,74,"71-80","826 12th Drive",Female,647,Sedang
+1975,Visa,Debit (Prepaid),53,"51-60","8224 Fourth Drive",Female,738,Cukup Baik
+1976,Visa,Debit,33,"31-40","2552 Forest Avenue",Female,699,Sedang
+1977,Visa,Debit,43,"41-50","825 Sussex Avenue",Female,773,Cukup Baik
+1978,Visa,Credit,19,"10-20","76 Birch Drive",Female,844,Cukup Baik
+1979,Visa,Debit,38,"31-40","731 Lincoln Boulevard",Female,738,Cukup Baik
+1980,Visa,Debit,54,"51-60","990 West Street",Male,612,Sedang
+1981,Visa,Debit,48,"41-50","8975 Littlewood Boulevard",Male,702,Cukup Baik
+1982,Visa,Debit,30,"21-30","5737 Washington Boulevard",Male,699,Sedang
+1983,Visa,Debit,50,"41-50","655 George Boulevard",Male,773,Cukup Baik
+1984,Visa,Debit,29,"21-30","8265 Mountain View Drive",Female,528,Buruk
+1985,Visa,Debit,50,"41-50","9061 Grant Avenue",Female,680,Sedang
+1986,Visa,Credit,44,"41-50","5887 Seventh Lane",Female,716,Cukup Baik
+1987,Visa,Debit,63,"61-70","786 12th Drive",Male,488,Tidak Baik
+1988,Visa,Credit,59,"51-60","763 Essex Avenue",Male,737,Cukup Baik
+1989,Visa,Debit,31,"31-40","3487 Bayview Drive",Male,803,Cukup Baik
+1990,Visa,Credit,19,"10-20","849 George Avenue",Female,726,Cukup Baik
+1991,Visa,Debit,21,"21-30","979 Fifth Avenue",Male,694,Sedang
+1992,Visa,Debit,63,"61-70","457 Summit Lane",Female,710,Cukup Baik
+1993,Visa,Credit,59,"51-60","963 11th Drive",Female,786,Cukup Baik
+1994,Visa,Credit,48,"41-50","9716 Third Lane",Female,740,Cukup Baik
+1995,Visa,Debit,64,"61-70","28 First Lane",Female,605,Sedang
+1996,Visa,Debit (Prepaid),46,"41-50","7853 Grant Street",Female,728,Cukup Baik
+1997,Visa,Credit,76,"71-80","765 Forest Street",Male,758,Cukup Baik
+1998,Visa,Debit,65,"61-70","10 Third Avenue",Male,688,Sedang
+1999,Visa,Debit,19,"10-20","1749 Spruce Street",Male,683,Sedang
